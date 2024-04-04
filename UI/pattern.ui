@@ -528,11 +528,46 @@ border-radius:10px;</string>
     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Methods&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
   </widget>
+  <widget class="QLabel" name="home">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>30</y>
+     <width>51</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Images/Icons/home.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="homebt">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>20</y>
+     <width>61</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: transparent;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
   <zorder>background</zorder>
+  <zorder>blurside</zorder>
   <zorder>crimerate</zorder>
   <zorder>blurtop</zorder>
   <zorder>crimematching</zorder>
-  <zorder>blurside</zorder>
   <zorder>icon1</zorder>
   <zorder>crimeprediction</zorder>
   <zorder>icon4</zorder>
@@ -554,6 +589,8 @@ border-radius:10px;</string>
   <zorder>p3</zorder>
   <zorder>s4</zorder>
   <zorder>p4</zorder>
+  <zorder>home</zorder>
+  <zorder>homebt</zorder>
  </widget>
  <resources/>
  <connections/>

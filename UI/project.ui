@@ -277,7 +277,7 @@ background-color: rgba(255, 255, 255,0);
     <string/>
    </property>
   </widget>
-  <widget class="QLabel" name="label">
+  <widget class="QLabel" name="icon3">
    <property name="geometry">
     <rect>
      <x>60</x>
@@ -299,7 +299,7 @@ background-color: rgba(255, 255, 255,0);
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QLabel" name="label_2">
+  <widget class="QLabel" name="icon4">
    <property name="geometry">
     <rect>
      <x>60</x>
@@ -321,7 +321,7 @@ background-color: rgba(255, 255, 255,0);
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QLabel" name="label_3">
+  <widget class="QLabel" name="icon1">
    <property name="geometry">
     <rect>
      <x>60</x>
@@ -343,7 +343,7 @@ background-color: rgba(255, 255, 255,0);
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QLabel" name="label_4">
+  <widget class="QLabel" name="icon2">
    <property name="geometry">
     <rect>
      <x>60</x>
@@ -365,7 +365,27 @@ background-color: rgba(255, 255, 255,0);
     <bool>true</bool>
    </property>
   </widget>
+  <widget class="QLabel" name="home">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>30</y>
+     <width>51</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Images/Icons/home.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
   <zorder>background</zorder>
+  <zorder>blurside</zorder>
   <zorder>crimematching</zorder>
   <zorder>crimeprediction</zorder>
   <zorder>crimepattern</zorder>
@@ -373,12 +393,12 @@ background-color: rgba(255, 255, 255,0);
   <zorder>para</zorder>
   <zorder>crimerate</zorder>
   <zorder>blurtop</zorder>
-  <zorder>blurside</zorder>
   <zorder>cipher</zorder>
-  <zorder>label</zorder>
-  <zorder>label_2</zorder>
-  <zorder>label_3</zorder>
-  <zorder>label_4</zorder>
+  <zorder>icon3</zorder>
+  <zorder>icon4</zorder>
+  <zorder>icon1</zorder>
+  <zorder>icon2</zorder>
+  <zorder>home</zorder>
  </widget>
  <resources/>
  <connections/>

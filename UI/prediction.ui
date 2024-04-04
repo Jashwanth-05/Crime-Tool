@@ -348,7 +348,7 @@ background-color: rgba(255, 255, 255,0);</string>
     <string notr="true">font: 14pt &quot;MS Shell Dlg 2&quot;;</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="predictbt">
    <property name="geometry">
     <rect>
      <x>830</x>
@@ -970,12 +970,47 @@ background-color: rgba(255, 255, 255,0);</string>
     </property>
    </item>
   </widget>
+  <widget class="QLabel" name="home">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>30</y>
+     <width>51</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Images/Icons/home.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="homebt">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>20</y>
+     <width>61</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: transparent;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
   <zorder>BG</zorder>
+  <zorder>blurside</zorder>
   <zorder>Location</zorder>
   <zorder>dateandtime</zorder>
   <zorder>topic</zorder>
   <zorder>blurtop</zorder>
-  <zorder>blurside</zorder>
   <zorder>crimematching</zorder>
   <zorder>crimerate</zorder>
   <zorder>icon4</zorder>
@@ -985,9 +1020,11 @@ background-color: rgba(255, 255, 255,0);</string>
   <zorder>icon2</zorder>
   <zorder>icon3</zorder>
   <zorder>dateTimeEdit</zorder>
-  <zorder>pushButton</zorder>
+  <zorder>predictbt</zorder>
   <zorder>icon1_TOP</zorder>
   <zorder>location_2</zorder>
+  <zorder>home</zorder>
+  <zorder>homebt</zorder>
  </widget>
  <resources/>
  <connections/>
