@@ -3,7 +3,10 @@ from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication, QDialog
 from PyQt5.uic import loadUi
 from PyQt5.QtCore import QTimer
-
+from geopy.geocoders import Nominatim
+from CTP import latlog
+import pandas as pd
+from CTP import CTM
 def page(Page):
     index = widget.indexOf(Page)
     widget.setCurrentIndex(index)
@@ -29,6 +32,7 @@ class Home(QDialog):
         self.crimepattern.clicked.connect(lambda: self.page(PATTERN))
 
 
+
 class Predict(QDialog):
     def __init__(self, page):
         self.page = page
@@ -40,6 +44,29 @@ class Predict(QDialog):
         self.crimerate.clicked.connect(lambda: self.page(RATE))
         self.crimepattern.clicked.connect(lambda: self.page(PATTERN))
 
+        self.predictbt.clicked.connect(self.predict)
+    def predict(self):
+        area=self.locationcb.currentText()
+        datetime= self.dateTimeEdit.dateTime().toPyDateTime()
+        latitude, longitude =latlog.lg(area)
+
+        db = pd.DataFrame({
+            "year": [datetime.year],
+            "month": [datetime.month],
+            "day": [datetime.day],
+            "hour": [datetime.hour],
+            "dayofyear": [datetime.timetuple().tm_yday],
+            "week": [datetime.isocalendar()[1]],
+            "weekofyear": [datetime.isocalendar()[1]],
+            "dayofweek": [datetime.weekday()],
+            "weekday": [datetime.weekday()],
+            "quarter": [(datetime.month - 1) // 3 + 1],
+            "latitude": [latitude],
+            "longitude": [longitude]
+        }, index=[0])
+        X=db.iloc[:,[1,2,3,4,6,10,11]].values
+        print(CTM.predict(X))
+        
 
 class Pattern(QDialog):
     def __init__(self, page):

@@ -386,7 +386,7 @@ background-color: rgba(255, 255, 255,0);</string>
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QComboBox" name="location_2">
+  <widget class="QComboBox" name="locationcb">
    <property name="geometry">
     <rect>
      <x>410</x>
@@ -1022,7 +1022,7 @@ background-color: rgba(255, 255, 255,0);</string>
   <zorder>dateTimeEdit</zorder>
   <zorder>predictbt</zorder>
   <zorder>icon1_TOP</zorder>
-  <zorder>location_2</zorder>
+  <zorder>locationcb</zorder>
   <zorder>home</zorder>
   <zorder>homebt</zorder>
  </widget>
