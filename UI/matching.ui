@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1366</width>
+    <height>768</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="icon4">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>460</y>
+     <width>31</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Images/Icons/interest-rate.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="blurside">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>80</y>
+     <width>361</width>
+     <height>771</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(131, 177, 203,60);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="blurtop">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>-10</y>
+     <width>1361</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(131, 177, 203,60);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="crimerate">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>450</y>
+     <width>240</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>16</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="acceptDrops">
+    <bool>false</bool>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 163, 238);
+font: 16pt &quot;Calibri&quot;;
+border:2px solid white;
+border-radius:10px;
+background-color: rgba(255, 255, 255,0);
+</string>
+   </property>
+   <property name="text">
+    <string>CrimeRate</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="icon3">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>390</y>
+     <width>31</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Images/Icons/puzzle.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="background">
+   <property name="geometry">
+    <rect>
+     <x>-20</x>
+     <y>-10</y>
+     <width>1366</width>
+     <height>768</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Images/BG.jpg</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="crimematching">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>380</y>
+     <width>240</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>16</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="acceptDrops">
+    <bool>false</bool>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 163, 238);
+font: 16pt &quot;Calibri&quot;;
+border:2px solid white;
+border-radius:10px;
+background-color: rgba(255, 255, 255,0);</string>
+   </property>
+   <property name="text">
+    <string>       CrimeMatching</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="icon2">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>320</y>
+     <width>31</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Images/Icons/pattern-lock.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="icon1">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>250</y>
+     <width>41</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Images/Icons/predictive-analysis.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="crimepattern">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>310</y>
+     <width>240</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>16</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 163, 238);
+font: 16pt &quot;Calibri&quot;;
+border:2px solid white;
+border-radius:10px;
+background-color: rgba(255, 255, 255,0);</string>
+   </property>
+   <property name="text">
+    <string>CrimePattern</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="crimeprediction">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>240</y>
+     <width>240</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>16</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 163, 238);
+font: 16pt &quot;Calibri&quot;;
+border:2px solid white;
+border-radius:10px;
+background-color: rgba(255, 255, 255,0);</string>
+   </property>
+   <property name="text">
+    <string>      Crime Prediction</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="topic">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>20</y>
+     <width>421</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 26pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 0);</string>
+   </property>
+   <property name="text">
+    <string>CRIME MATCHING</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="icon3_2">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>20</y>
+     <width>51</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Images/Icons/puzzle.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Casedetails">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>140</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 18pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;CASE DETAILS&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Area">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>280</y>
+     <width>81</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Area</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Acts">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>370</y>
+     <width>81</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Acts</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Crime">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>460</y>
+     <width>81</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Crimes</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Crime_2">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>560</y>
+     <width>81</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Victim ID</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="VictimIDLE">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>600</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border:2px solid white;
+border-radius:5px;
+background-color: rgba(255, 255, 255);</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="location">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>320</y>
+     <width>271</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 14pt &quot;MS Shell Dlg 2&quot;;
+border:2px solid white;
+border-radius:5px;</string>
+   </property>
+   <property name="editable">
+    <bool>true</bool>
+   </property>
+   <property name="currentText">
+    <string>Adyar </string>
+   </property>
+   <item>
+    <property name="text">
+     <string>Adyar </string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Agaram </string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Aminjikarai</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Anna Nagar </string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Anna Nagar East</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Anna Nagar Western Extn</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Anna Road</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Arumbakkam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Ashoknagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Aynavaram</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Besantnagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Chennai</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Chepauk</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Chetput</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Chintadripet</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Choolaimedu</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>D G Vaishnav College</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Edapalayam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Egmore</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Egmore ND</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Ekkaduthangal</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Engineering College</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Erukkancheri</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Ethiraj Salai</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Flower Bazaar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Flowers Road</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Fort St George</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>G K M Colony</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Gopalapuram</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Govt Stanley Hospital</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Greams Road</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Guindy Industrial Estate</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Guindy North</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>High Court Building</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Hindi Prachar Sabha</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Icf Colony</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Indian Institute Of Technology</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Jafferkhanpet</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Jawahar Nagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kalaignar Karunanidhi Nagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kasturibai Nagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kilpauk</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kilpauk Medical College</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kodambakkam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kodungaiyur</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kotturpuram</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Koyambedu</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Koyambedu Wholesale Market Com</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kumaran Nagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lloyds Estate</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Loyola College</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Madras Electricity System</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Madras Medical College</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Madras University</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Mambalam.</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Mandaveli</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Mannady</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Medavakkam Tank Road</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Mint Building</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>MPT AO</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Mylapore</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Nandanam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Nungambakkam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Nungambakkam High Road</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Old College Buildings</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Park Town</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Perambur</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Perambur Barracks</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Perambur North</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Pr. Accountant General</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Pudupakkam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Puliyanthope</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Raja Annamalaipuram</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Rajaji Bhavan</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Rajbhavan</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Ramakrishna Nagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Rayapuram</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Ripon Buildings</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Royapettah</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Rv Nagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Saidapet</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Saligramam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Sembiam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Shastri Bhavan</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Shastri Nagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Shenoy Nagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Sowcarpet</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Teynampet</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Teynampet West</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Thygarayanagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Thygarayanagar North ND</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Thygarayanagar South NDS.O</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Tidel Park</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Tiruvallikkeni</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Tiruvanmiyur</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Tondiarpet</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Tondiarpet Bazaar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Tondiarpet West</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Triplicane South</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>TTTI Taramani</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Vadapalani</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Valmiki Nagar</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Velacheri</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Venkatesapuram</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Vepery</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Virugambakkam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Vivekananda College Madras</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Vyasar Nagar Colony</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Vyasarpadi</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Washermanpet</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Washermanpet East</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>West Mambalam</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>World University Centre</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QComboBox" name="crimes">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>500</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 14pt &quot;MS Shell Dlg 2&quot;;
+border:2px solid white;
+border-radius:5px;</string>
+   </property>
+   <property name="editable">
+    <bool>true</bool>
+   </property>
+   <property name="currentText">
+    <string>Robbery</string>
+   </property>
+   <item>
+    <property name="text">
+     <string>Robbery</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Gambling</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Accident</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Violence </string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Murder</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kidnapping </string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>790</x>
+     <y>670</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;MS Shell Dlg 2&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Add+Match</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="actsdd">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>400</y>
+     <width>191</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 14pt &quot;MS Shell Dlg 2&quot;;
+border:2px solid white;
+border-radius:5px;</string>
+   </property>
+   <property name="editable">
+    <bool>true</bool>
+   </property>
+   <property name="currentText">
+    <string>Act-379</string>
+   </property>
+   <item>
+    <property name="text">
+     <string>Act-379</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Act-13</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Act-279</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Act-323</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Act-302</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Act-363</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QDateTimeEdit" name="dateTimeEdit">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>230</y>
+     <width>331</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 14pt &quot;MS Shell Dlg 2&quot;;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Area_2">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>200</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>TimeStamp</string>
+   </property>
+  </widget>
+  <zorder>background</zorder>
+  <zorder>blurside</zorder>
+  <zorder>crimepattern</zorder>
+  <zorder>icon3</zorder>
+  <zorder>icon2</zorder>
+  <zorder>icon4</zorder>
+  <zorder>icon1</zorder>
+  <zorder>crimeprediction</zorder>
+  <zorder>crimematching</zorder>
+  <zorder>blurtop</zorder>
+  <zorder>crimerate</zorder>
+  <zorder>topic</zorder>
+  <zorder>icon3_2</zorder>
+  <zorder>Casedetails</zorder>
+  <zorder>Area</zorder>
+  <zorder>Acts</zorder>
+  <zorder>Crime</zorder>
+  <zorder>Crime_2</zorder>
+  <zorder>VictimIDLE</zorder>
+  <zorder>location</zorder>
+  <zorder>crimes</zorder>
+  <zorder>pushButton</zorder>
+  <zorder>actsdd</zorder>
+  <zorder>dateTimeEdit</zorder>
+  <zorder>Area_2</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

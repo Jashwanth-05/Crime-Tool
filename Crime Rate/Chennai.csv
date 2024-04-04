@@ -1,0 +1,2091 @@
+Timestamp,Area,Acts,Crime,Victim_ID
+28-02-2018 21:00,Mambalam.,act379,Robbery,Victim66
+28-02-2018 21:15,Vyasar Nagar Colony,act379,Robbery,Victim20
+28-02-2018 10:15,Kumaran Nagar,act279,Accident,Victim117
+28-02-2018 10:15,Rv Nagar,act279,Accident,Victim130
+28-02-2018 10:30,Virugambakkam,act279,Accident,Victim175
+28-02-2018 14:15,Washermanpet,act323,Violence,Victim45
+28-02-2018 08:00,Venkatesapuram,act363,Kidnapping,Victim173
+28-02-2018 03:30,MPT AO,act323,Violence,Victim9
+28-02-2018 01:30,Old College Buildings,act379,Robbery,Victim119
+28-02-2018 19:00,Nungambakkam,act323,Violence,Victim187
+28-02-2018 14:10,Chepauk,act323,Violence,Victim158
+28-02-2018 14:25,Tidel Park,act323,Violence,Victim103
+28-02-2018 22:00,Govt Stanley Hospital,act13,Gambling,Victim74
+28-02-2018 22:00,Puliyanthope,act323,Violence,Victim174
+28-02-2018 22:10,Kotturpuram,act323,Violence,Victim77
+28-02-2018 12:00,Nandanam,act379,Robbery,Victim122
+28-02-2018 13:30,Pudupakkam,act363,Kidnapping,Victim73
+28-02-2018 03:00,Vyasar Nagar Colony,act323,Violence,Victim168
+28-02-2018 23:50,Indian Institute Of Technology,act323,Violence,Victim171
+28-02-2018 19:00,Perambur,act379,Robbery,Victim66
+28-02-2018 11:55,Chepauk,act279,Accident,Victim81
+28-02-2018 11:00,Raja Annamalaipuram,act323,Violence,Victim25
+28-02-2018 18:00,Chennai,act279,Accident,Victim116
+28-02-2018 01:00,Ethiraj Salai,act323,Violence,Victim186
+28-02-2018 00:00,Teynampet West,act379,Robbery,Victim91
+28-02-2018 22:10,Hindi Prachar Sabha,act279,Accident,Victim27
+28-02-2018 22:30,Flower Bazaar,act13,Gambling,Victim95
+28-02-2018 08:40,Tondiarpet,act279,Accident,Victim161
+28-02-2018 15:40,West Mambalam,act323,Violence,Victim99
+28-02-2018 15:50,Raja Annamalaipuram,act323,Violence,Victim43
+28-02-2018 00:00,D G Vaishnav College,act379,Robbery,Victim197
+28-02-2018 15:00,Kumaran Nagar,act323,Violence,Victim175
+28-02-2018 15:30,Vyasarpadi,act323,Violence,Victim150
+28-02-2018 19:05,Indian Institute Of Technology,act323,Violence,Victim155
+28-02-2018 19:25,Flower Bazaar,act323,Violence,Victim150
+28-02-2018 19:50,Rajbhavan,act323,Violence,Victim59
+28-02-2018 19:20,Tondiarpet West,act323,Violence,Victim169
+28-02-2018 13:00,Thygarayanagar South NDS.O,act323,Violence,Victim2
+28-02-2018 16:00,Velacheri,act323,Violence,Victim79
+28-02-2018 21:45,Washermanpet East,act323,Violence,Victim125
+28-02-2018 23:00,Tondiarpet West,act323,Violence,Victim176
+28-02-2018 19:30,Tondiarpet,act279,Accident,Victim189
+28-02-2018 17:00,Tondiarpet Bazaar,act13,Gambling,Victim111
+28-02-2018 19:45,Koyambedu Wholesale Market Com,act13,Gambling,Victim50
+28-02-2018 19:00,Venkatesapuram,act323,Violence,Victim38
+28-02-2018 20:00,Guindy Industrial Estate,act323,Violence,Victim184
+28-02-2018 17:00,Shastri Bhavan,act279,Accident,Victim8
+28-02-2018 20:30,Icf Colony,act323,Violence,Victim129
+28-02-2018 15:50,West Mambalam,act13,Gambling,Victim19
+01-03-2018 12:00,Mandaveli,act379,Robbery,Victim49
+01-03-2018 14:30,Velacheri,act379,Robbery,Victim183
+03-01-2018 16:30,Tondiarpet Bazaar,act379,Robbery,Victim168
+01-03-2018 22:30,Mint Building,act379,Robbery,Victim168
+01-03-2018 18:35,Madras Medical College,act379,Robbery,Victim159
+01-03-2018 16:40,Egmore ND,act379,Robbery,Victim114
+01-03-2018 01:45,Puliyanthope,act379,Robbery,Victim199
+01-03-2018 12:00,Sowcarpet,act379,Robbery,Victim161
+01-03-2018 12:20,Medavakkam Tank Road,act279,Accident,Victim183
+01-03-2018 17:20,Perambur,act279,Accident,Victim6
+01-03-2018 15:35,Royapettah,act279,Accident,Victim138
+01-03-2018 22:35,Thygarayanagar South NDS.O,act279,Accident,Victim136
+01-03-2018 16:20,Shastri Nagar,act279,Accident,Victim105
+01-03-2018 17:30,Mint Building,act279,Accident,Victim14
+01-03-2018 15:25,Pr. Accountant General,act279,Accident,Victim165
+01-03-2018 18:25,Madras Medical College,act323,Violence,Victim25
+01-03-2018 20:45,Engineering College,act323,Violence,Victim174
+01-03-2018 11:45,Guindy North,act323,Violence,Victim126
+01-03-2018 19:50,Rv Nagar,act363,Kidnapping,Victim29
+01-03-2018 15:30,World University Centre,act363,Kidnapping,Victim180
+01-03-2018 16:05,Vivekananda College Madras,act363,Kidnapping,Victim171
+01-03-2018 15:15,Perambur North,act13,Gambling,Victim30
+01-03-2018 15:20,Thygarayanagar,act13,Gambling,Victim65
+01-03-2018 22:20,Madras University,act323,Violence,Victim165
+01-03-2018 22:30,Nungambakkam High Road,act379,Robbery,Victim134
+01-03-2018 18:25,Flower Bazaar,act323,Violence,Victim42
+01-03-2018 08:55,Chepauk,act379,Robbery,Victim81
+01-03-2018 14:20,Koyambedu,act379,Robbery,Victim87
+01-03-2018 00:55,D G Vaishnav College,act279,Accident,Victim71
+01-03-2018 18:35,Kasturibai Nagar,act323,Violence,Victim25
+01-03-2018 12:05,Indian Institute Of Technology,act379,Robbery,Victim4
+03-03-2018 20:10,G K M Colony,act379,Robbery,Victim16
+03-03-2018 20:05,Greams Road,act379,Robbery,Victim6
+03-03-2018 19:45,Medavakkam Tank Road,act379,Robbery,Victim116
+03-03-2018 15:30,Govt Stanley Hospital,act379,Robbery,Victim69
+03-03-2018 16:00,World University Centre,act379,Robbery,Victim187
+03-03-2018 13:40,Mandaveli,act279,Accident,Victim104
+03-03-2018 17:40,Erukkancheri,act279,Accident,Victim73
+03-03-2018 12:50,Tondiarpet,act279,Accident,Victim139
+03-03-2018 13:00,Pudupakkam,act279,Accident,Victim71
+03-03-2018 23:10,High Court Building,act279,Accident,Victim21
+03-03-2018 20:40,Chennai,act279,Accident,Victim103
+03-03-2018 04:10,MPT AO,act323,Violence,Victim60
+03-03-2018 20:05,Kilpauk,act323,Violence,Victim127
+03-03-2018 00:15,Guindy North,act323,Violence,Victim131
+03-03-2018 22:50,Pudupakkam,act323,Violence,Victim124
+03-03-2018 23:40,Choolaimedu,act363,Kidnapping,Victim12
+03-03-2018 14:10,Mint Building,act363,Kidnapping,Victim94
+03-03-2018 22:50,Govt Stanley Hospital,act279,Accident,Victim77
+03-03-2018 03:15,Hindi Prachar Sabha,act279,Accident,Victim15
+03-03-2018 16:10,Erukkancheri,act279,Accident,Victim101
+03-03-2018 17:50,Rajaji Bhavan,act279,Accident,Victim90
+03-03-2018 21:20,Madras University,act323,Violence,Victim10
+03-03-2018 11:20,Virugambakkam,act279,Accident,Victim196
+03-03-2018 14:00,Kotturpuram,act323,Violence,Victim78
+04-03-2018 09:00,Washermanpet,act323,Violence,Victim175
+04-03-2018 19:05,Triplicane South,act279,Accident,Victim58
+04-03-2018 14:30,Chennai,act279,Accident,Victim27
+04-03-2018 23:05,Royapettah,act323,Violence,Victim23
+04-03-2018 22:00,Pr. Accountant General,act323,Violence,Victim55
+04-03-2018 18:30,G K M Colony,act323,Violence,Victim85
+04-03-2018 22:00,Shastri Bhavan,act323,Violence,Victim105
+04-03-2018 13:40,Virugambakkam,act279,Accident,Victim152
+04-03-2018 18:00,Vepery,act379,Robbery,Victim58
+04-03-2018 13:30,Mint Building,act323,Violence,Victim27
+04-03-2018 21:30,Lloyds Estate,act279,Accident,Victim164
+04-03-2018 22:00,Kodungaiyur,act323,Violence,Victim178
+04-03-2018 08:00,Perambur North,act279,Accident,Victim189
+04-03-2018 20:00,Mandaveli,act323,Violence,Victim180
+04-03-2018 08:30,Kumaran Nagar,act323,Violence,Victim119
+04-03-2018 17:00,Kilpauk,act302,Murder,Victim113
+04-03-2018 21:00,Tidel Park,act279,Accident,Victim161
+05-03-2018 06:15,Velacheri,act279,Accident,Victim167
+05-03-2018 23:00,MPT AO,act323,Violence,Victim58
+05-03-2018 07:30,Mandaveli,act279,Accident,Victim9
+05-03-2018 19:30,Kalaignar Karunanidhi Nagar,act13,Gambling,Victim23
+05-03-2018 20:00,Mint Building,act279,Accident,Victim151
+05-03-2018 13:30,Vyasar Nagar Colony,act323,Violence,Victim6
+05-03-2018 10:00,MPT AO,act279,Accident,Victim143
+05-03-2018 14:00,Perambur Barracks,act279,Accident,Victim34
+05-03-2018 23:10,Mylapore,act279,Accident,Victim37
+05-03-2018 19:05,Kumaran Nagar,act379,Robbery,Victim9
+05-03-2018 19:10,Thygarayanagar North ND,act379,Robbery,Victim12
+05-03-2018 03:30,Egmore ND,act323,Violence,Victim194
+05-03-2018 18:45,Tondiarpet Bazaar,act379,Robbery,Victim40
+05-03-2018 12:10,Nungambakkam High Road,act379,Robbery,Victim98
+05-03-2018 14:25,Puliyanthope,act279,Accident,Victim86
+05-03-2018 15:40,Rv Nagar,act279,Accident,Victim167
+05-03-2018 00:45,Flowers Road,act323,Violence,Victim64
+05-03-2018 13:15,Teynampet,act323,Violence,Victim148
+05-03-2018 14:00,Kumaran Nagar,act279,Accident,Victim20
+05-03-2018 22:20,Medavakkam Tank Road,act279,Accident,Victim22
+05-03-2018 19:45,Ethiraj Salai,act379,Robbery,Victim173
+05-03-2018 14:55,World University Centre,act379,Robbery,Victim160
+05-03-2018 21:40,Madras Electricity System,act279,Accident,Victim90
+05-03-2018 22:00,Ramakrishna Nagar,act302,Murder,Victim14
+05-03-2018 19:10,Madras Medical College,act279,Accident,Victim103
+05-03-2018 21:00,Gopalapuram,act323,Violence,Victim170
+05-03-2018 18:15,Washermanpet East,act323,Violence,Victim142
+06-03-2018 11:40,Virugambakkam,act323,Violence,Victim60
+06-03-2018 17:30,Ripon Buildings,act279,Accident,Victim32
+06-03-2018 15:20,Jawahar Nagar,act279,Accident,Victim12
+06-03-2018 21:15,Thygarayanagar,act323,Violence,Victim37
+06-03-2018 20:45,Loyola College,act363,Kidnapping,Victim130
+06-03-2018 13:45,Saligramam,act279,Accident,Victim199
+06-03-2018 15:30,Ekkaduthangal,act323,Violence,Victim11
+06-03-2018 17:25,Kumaran Nagar,act323,Violence,Victim2
+06-03-2018 18:40,Flowers Road,act279,Accident,Victim57
+06-03-2018 14:30,Velacheri,act279,Accident,Victim115
+06-03-2018 20:30,Kodambakkam,act323,Violence,Victim127
+06-03-2018 01:35,Jawahar Nagar,act323,Violence,Victim81
+06-03-2018 11:30,D G Vaishnav College,act279,Accident,Victim199
+06-03-2018 10:10,Mylapore,act323,Violence,Victim52
+07-03-2018 14:50,Vepery,act279,Accident,Victim193
+07-03-2018 20:40,Medavakkam Tank Road,act379,Robbery,Victim113
+07-03-2018 13:35,Flower Bazaar,act363,Kidnapping,Victim35
+07-03-2018 22:55,D G Vaishnav College,act279,Accident,Victim198
+7/3/2018 16.42 ,Puliyanthope,act323,Violence,Victim88
+7/3/2018 17.28,Fort St George,act323,Violence,Victim68
+07-03-2018 18:05,Pr. Accountant General,act379,Robbery,Victim130
+07-03-2018 14:00,Besantnagar,act379,Robbery,Victim170
+07-03-2018 16:00,Teynampet West,act279,Accident,Victim73
+07-03-2018 18:00,Chintadripet,act323,Violence,Victim196
+07-03-2018 00:35,Mambalam.,act323,Violence,Victim12
+07-03-2018 20:20,Vyasar Nagar Colony,act279,Accident,Victim109
+07-03-2018 13:00,Vadapalani,act323,Violence,Victim136
+07-03-2018 16:15,Kalaignar Karunanidhi Nagar,act323,Violence,Victim198
+07-03-2018 17:00,Teynampet West,act323,Violence,Victim162
+07-03-2018 19:05,Pudupakkam,act279,Accident,Victim196
+07-03-2018 12:50,Vyasar Nagar Colony,act379,Robbery,Victim181
+07-03-2018 21:05,Gopalapuram,act323,Violence,Victim96
+07-03-2018 12:20,Greams Road,act279,Accident,Victim39
+07-03-2018 20:20,Vyasar Nagar Colony,act379,Robbery,Victim143
+07-03-2018 20:40,TTTI Taramani,act279,Accident,Victim108
+07-03-2018 19:55,Hindi Prachar Sabha,act363,Kidnapping,Victim17
+07-03-2018 21:20,Perambur,act323,Violence,Victim109
+07-03-2018 03:50,Virugambakkam,act323,Violence,Victim192
+07-03-2018 21:10,Perambur North,act323,Violence,Victim5
+07-03-2018 12:10,Kilpauk,act279,Accident,Victim112
+07-03-2018 10:35,Nungambakkam High Road,act279,Accident,Victim24
+07-03-2018 23:45,Govt Stanley Hospital,act279,Accident,Victim75
+28-02-2018 21:00,Tiruvallikkeni,act379,Robbery,Victim73
+28-02-2018 21:15,Virugambakkam,act379,Robbery,Victim27
+28-02-2018 10:15,Pudupakkam,act279,Accident,Victim100
+28-02-2018 10:15,D G Vaishnav College,act279,Accident,Victim200
+28-02-2018 10:30,Chintadripet,act279,Accident,Victim62
+28-02-2018 14:15,Kilpauk Medical College,act323,Violence,Victim121
+28-02-2018 08:00,Park Town,act363,Kidnapping,Victim42
+28-02-2018 03:30,Flower Bazaar,act323,Violence,Victim16
+28-02-2018 01:30,Ekkaduthangal,act379,Robbery,Victim162
+28-02-2018 19:00,Chepauk,act323,Violence,Victim85
+28-02-2018 14:10,Koyambedu Wholesale Market Com,act323,Violence,Victim76
+28-02-2018 14:25,Nungambakkam High Road,act323,Violence,Victim148
+28-02-2018 22:00,Thygarayanagar,act13,Gambling,Victim118
+28-02-2018 22:00,Rayapuram,act323,Violence,Victim199
+28-02-2018 22:10,D G Vaishnav College,act323,Violence,Victim62
+28-02-2018 12:00,Medavakkam Tank Road,act379,Robbery,Victim118
+28-02-2018 13:30,Indian Institute Of Technology,act363,Kidnapping,Victim143
+28-02-2018 03:00,Thygarayanagar South NDS.O,act323,Violence,Victim133
+28-02-2018 23:50,Shenoy Nagar,act323,Violence,Victim8
+28-02-2018 19:00,Thygarayanagar South NDS.O,act379,Robbery,Victim44
+28-02-2018 11:55,Icf Colony,act279,Accident,Victim54
+28-02-2018 11:00,Guindy Industrial Estate,act323,Violence,Victim94
+28-02-2018 18:00,Kumaran Nagar,act279,Accident,Victim57
+28-02-2018 01:00,Virugambakkam,act323,Violence,Victim80
+28-02-2018 00:00,Jawahar Nagar,act379,Robbery,Victim26
+28-02-2018 22:10,Koyambedu,act279,Accident,Victim130
+28-02-2018 22:30,Raja Annamalaipuram,act13,Gambling,Victim23
+28-02-2018 08:40,Madras University,act279,Accident,Victim44
+28-02-2018 15:40,Egmore,act323,Violence,Victim29
+28-02-2018 15:50,Tondiarpet Bazaar,act323,Violence,Victim9
+28-02-2018 00:00,Vadapalani,act379,Robbery,Victim65
+28-02-2018 15:00,Kilpauk Medical College,act323,Violence,Victim48
+28-02-2018 15:30,Vepery,act323,Violence,Victim193
+28-02-2018 19:05,Koyambedu Wholesale Market Com,act323,Violence,Victim176
+28-02-2018 19:25,Mylapore,act323,Violence,Victim151
+28-02-2018 19:50,Medavakkam Tank Road,act323,Violence,Victim88
+28-02-2018 19:20,Mannady,act323,Violence,Victim155
+28-02-2018 13:00,Chennai,act323,Violence,Victim93
+28-02-2018 16:00,Mylapore,act323,Violence,Victim185
+28-02-2018 21:45,Velacheri,act323,Violence,Victim34
+28-02-2018 23:00,Pr. Accountant General,act323,Violence,Victim141
+28-02-2018 19:30,Tondiarpet West,act279,Accident,Victim192
+28-02-2018 17:00,Kumaran Nagar,act13,Gambling,Victim55
+28-02-2018 19:45,Velacheri,act13,Gambling,Victim46
+28-02-2018 19:00,Chintadripet,act323,Violence,Victim188
+28-02-2018 20:00,Erukkancheri,act323,Violence,Victim170
+28-02-2018 17:00,Chennai,act279,Accident,Victim175
+28-02-2018 20:30,Valmiki Nagar,act323,Violence,Victim138
+28-02-2018 15:50,Kilpauk Medical College,act13,Gambling,Victim188
+01-03-2018 12:00,Perambur,act379,Robbery,Victim125
+01-03-2018 14:30,Pudupakkam,act379,Robbery,Victim164
+03-01-2018 16:30,Ramakrishna Nagar,act379,Robbery,Victim13
+01-03-2018 22:30,Valmiki Nagar,act379,Robbery,Victim78
+01-03-2018 18:35,Madras Electricity System,act379,Robbery,Victim30
+01-03-2018 16:40,Madras Medical College,act379,Robbery,Victim62
+01-03-2018 01:45,Saligramam,act379,Robbery,Victim93
+01-03-2018 12:00,Perambur,act379,Robbery,Victim165
+01-03-2018 12:20,Ripon Buildings,act279,Accident,Victim28
+01-03-2018 17:20,TTTI Taramani,act279,Accident,Victim105
+01-03-2018 15:35,Tiruvallikkeni,act279,Accident,Victim164
+01-03-2018 22:35,Tiruvallikkeni,act279,Accident,Victim98
+01-03-2018 16:20,Velacheri,act279,Accident,Victim131
+01-03-2018 17:30,Tondiarpet Bazaar,act279,Accident,Victim179
+01-03-2018 15:25,Govt Stanley Hospital,act279,Accident,Victim111
+01-03-2018 18:25,Saidapet,act323,Violence,Victim76
+01-03-2018 20:45,Madras University,act323,Violence,Victim71
+01-03-2018 11:45,Jafferkhanpet,act323,Violence,Victim147
+01-03-2018 19:50,Chennai,act363,Kidnapping,Victim6
+01-03-2018 15:30,Nungambakkam,act363,Kidnapping,Victim187
+01-03-2018 16:05,Egmore ND,act363,Kidnapping,Victim139
+01-03-2018 15:15,Jawahar Nagar,act13,Gambling,Victim13
+01-03-2018 15:20,Besantnagar,act13,Gambling,Victim113
+01-03-2018 22:20,Hindi Prachar Sabha,act323,Violence,Victim88
+01-03-2018 22:30,Vyasarpadi,act379,Robbery,Victim158
+01-03-2018 18:25,Tiruvanmiyur,act323,Violence,Victim125
+01-03-2018 08:55,Egmore,act379,Robbery,Victim144
+01-03-2018 14:20,TTTI Taramani,act379,Robbery,Victim20
+01-03-2018 00:55,Edapalayam,act279,Accident,Victim153
+01-03-2018 18:35,TTTI Taramani,act323,Violence,Victim175
+01-03-2018 12:05,Choolaimedu,act379,Robbery,Victim23
+03-03-2018 20:10,Loyola College,act379,Robbery,Victim152
+03-03-2018 20:05,Shastri Bhavan,act379,Robbery,Victim42
+03-03-2018 19:45,Guindy North,act379,Robbery,Victim72
+03-03-2018 15:30,Tiruvanmiyur,act379,Robbery,Victim98
+03-03-2018 16:00,Thygarayanagar,act379,Robbery,Victim63
+03-03-2018 13:40,Vivekananda College Madras,act279,Accident,Victim28
+03-03-2018 17:40,Kodungaiyur,act279,Accident,Victim31
+03-03-2018 12:50,Edapalayam,act279,Accident,Victim181
+03-03-2018 13:00,Nungambakkam,act279,Accident,Victim93
+03-03-2018 23:10,Ramakrishna Nagar,act279,Accident,Victim11
+03-03-2018 20:40,Chennai,act279,Accident,Victim68
+03-03-2018 04:10,Kotturpuram,act323,Violence,Victim26
+03-03-2018 20:05,TTTI Taramani,act323,Violence,Victim43
+03-03-2018 00:15,Pr. Accountant General,act323,Violence,Victim85
+03-03-2018 22:50,Mannady,act323,Violence,Victim2
+03-03-2018 23:40,Vyasar Nagar Colony,act363,Kidnapping,Victim28
+03-03-2018 14:10,TTTI Taramani,act363,Kidnapping,Victim146
+03-03-2018 22:50,Perambur North,act279,Accident,Victim127
+03-03-2018 03:15,Chetput,act279,Accident,Victim52
+03-03-2018 16:10,MPT AO,act279,Accident,Victim62
+03-03-2018 17:50,D G Vaishnav College,act279,Accident,Victim7
+03-03-2018 21:20,Rajaji Bhavan,act323,Violence,Victim110
+03-03-2018 11:20,Rajbhavan,act279,Accident,Victim194
+03-03-2018 14:00,Madras University,act323,Violence,Victim197
+04-03-2018 09:00,D G Vaishnav College,act323,Violence,Victim12
+04-03-2018 19:05,Flower Bazaar,act279,Accident,Victim132
+04-03-2018 14:30,Egmore,act279,Accident,Victim52
+04-03-2018 23:05,Chennai,act323,Violence,Victim70
+04-03-2018 22:00,West Mambalam,act323,Violence,Victim47
+04-03-2018 18:30,Thygarayanagar,act323,Violence,Victim184
+04-03-2018 22:00,Washermanpet East,act323,Violence,Victim107
+04-03-2018 13:40,Washermanpet,act279,Accident,Victim130
+04-03-2018 18:00,Triplicane South,act379,Robbery,Victim137
+04-03-2018 13:30,Vadapalani,act323,Violence,Victim127
+04-03-2018 21:30,Jafferkhanpet,act279,Accident,Victim101
+04-03-2018 22:00,Valmiki Nagar,act323,Violence,Victim96
+04-03-2018 08:00,Madras Electricity System,act279,Accident,Victim15
+04-03-2018 20:00,Thygarayanagar,act323,Violence,Victim2
+04-03-2018 08:30,Guindy Industrial Estate,act323,Violence,Victim126
+04-03-2018 17:00,Engineering College,act302,Murder,Victim11
+04-03-2018 21:00,Madras Medical College,act279,Accident,Victim18
+05-03-2018 06:15,Mint Building,act279,Accident,Victim22
+05-03-2018 23:00,Govt Stanley Hospital,act323,Violence,Victim142
+05-03-2018 07:30,Kotturpuram,act279,Accident,Victim152
+05-03-2018 19:30,Royapettah,act13,Gambling,Victim79
+05-03-2018 20:00,Rayapuram,act279,Accident,Victim25
+05-03-2018 13:30,Kodungaiyur,act323,Violence,Victim188
+05-03-2018 10:00,Egmore ND,act279,Accident,Victim67
+05-03-2018 14:00,Choolaimedu,act279,Accident,Victim129
+05-03-2018 23:10,Flowers Road,act279,Accident,Victim109
+05-03-2018 19:05,Shastri Bhavan,act379,Robbery,Victim117
+05-03-2018 19:10,Hindi Prachar Sabha,act379,Robbery,Victim147
+05-03-2018 03:30,Thygarayanagar South NDS.O,act323,Violence,Victim147
+05-03-2018 18:45,Ekkaduthangal,act379,Robbery,Victim169
+05-03-2018 12:10,Nungambakkam High Road,act379,Robbery,Victim152
+05-03-2018 14:25,Sembiam,act279,Accident,Victim183
+05-03-2018 15:40,Kotturpuram,act279,Accident,Victim165
+05-03-2018 00:45,Kumaran Nagar,act323,Violence,Victim6
+05-03-2018 13:15,Kodambakkam,act323,Violence,Victim184
+05-03-2018 14:00,Chennai,act279,Accident,Victim117
+05-03-2018 22:20,Nandanam,act279,Accident,Victim74
+05-03-2018 19:45,Flower Bazaar,act379,Robbery,Victim18
+05-03-2018 14:55,Flower Bazaar,act379,Robbery,Victim74
+05-03-2018 21:40,Besantnagar,act279,Accident,Victim57
+05-03-2018 22:00,World University Centre,act302,Murder,Victim180
+05-03-2018 19:10,Ramakrishna Nagar,act279,Accident,Victim55
+05-03-2018 21:00,Govt Stanley Hospital,act323,Violence,Victim184
+05-03-2018 18:15,Madras University,act323,Violence,Victim91
+06-03-2018 11:40,Tondiarpet,act323,Violence,Victim153
+06-03-2018 17:30,Perambur Barracks,act279,Accident,Victim158
+06-03-2018 15:20,World University Centre,act279,Accident,Victim12
+06-03-2018 21:15,Madras Electricity System,act323,Violence,Victim22
+06-03-2018 20:45,Hindi Prachar Sabha,act363,Kidnapping,Victim62
+06-03-2018 13:45,Rv Nagar,act279,Accident,Victim185
+06-03-2018 15:30,Tondiarpet Bazaar,act323,Violence,Victim37
+06-03-2018 17:25,Koyambedu,act323,Violence,Victim49
+06-03-2018 18:40,Pudupakkam,act279,Accident,Victim89
+06-03-2018 14:30,Raja Annamalaipuram,act279,Accident,Victim148
+06-03-2018 20:30,Mylapore,act323,Violence,Victim72
+06-03-2018 01:35,Icf Colony,act323,Violence,Victim57
+06-03-2018 11:30,Shastri Nagar,act279,Accident,Victim174
+06-03-2018 10:10,Puliyanthope,act323,Violence,Victim187
+07-03-2018 14:50,Pudupakkam,act279,Accident,Victim118
+07-03-2018 20:40,Puliyanthope,act379,Robbery,Victim86
+07-03-2018 13:35,Vyasar Nagar Colony,act363,Kidnapping,Victim168
+07-03-2018 22:55,Kilpauk Medical College,act279,Accident,Victim108
+7/3/2018 16.42 ,Flowers Road,act323,Violence,Victim115
+7/3/2018 17.28,Nungambakkam High Road,act323,Violence,Victim14
+07-03-2018 18:05,Kasturibai Nagar,act379,Robbery,Victim44
+07-03-2018 14:00,Thygarayanagar,act379,Robbery,Victim132
+07-03-2018 16:00,Koyambedu,act279,Accident,Victim71
+07-03-2018 18:00,Teynampet,act323,Violence,Victim100
+07-03-2018 00:35,Indian Institute Of Technology,act323,Violence,Victim191
+07-03-2018 20:20,Perambur,act279,Accident,Victim29
+07-03-2018 13:00,Rajbhavan,act323,Violence,Victim159
+07-03-2018 16:15,Teynampet,act323,Violence,Victim173
+07-03-2018 17:00,Shenoy Nagar,act323,Violence,Victim111
+07-03-2018 19:05,Kilpauk,act279,Accident,Victim118
+07-03-2018 12:50,Thygarayanagar North ND,act379,Robbery,Victim132
+07-03-2018 21:05,G K M Colony,act323,Violence,Victim20
+07-03-2018 12:20,Rayapuram,act279,Accident,Victim48
+07-03-2018 20:20,Rajbhavan,act379,Robbery,Victim29
+07-03-2018 20:40,Tiruvanmiyur,act279,Accident,Victim90
+07-03-2018 19:55,Indian Institute Of Technology,act363,Kidnapping,Victim105
+07-03-2018 21:20,Guindy North,act323,Violence,Victim11
+07-03-2018 03:50,Venkatesapuram,act323,Violence,Victim144
+07-03-2018 21:10,Saligramam,act323,Violence,Victim123
+07-03-2018 12:10,Besantnagar,act279,Accident,Victim29
+07-03-2018 10:35,Govt Stanley Hospital,act279,Accident,Victim124
+07-03-2018 23:45,Kotturpuram,act279,Accident,Victim64
+28-02-2018 21:00,Madras Electricity System,act379,Robbery,Victim141
+28-02-2018 21:15,Rv Nagar,act379,Robbery,Victim170
+28-02-2018 10:15,Perambur North,act279,Accident,Victim145
+28-02-2018 10:15,Egmore ND,act279,Accident,Victim121
+28-02-2018 10:30,Mambalam.,act279,Accident,Victim61
+28-02-2018 14:15,Royapettah,act323,Violence,Victim96
+28-02-2018 08:00,Tiruvanmiyur,act363,Kidnapping,Victim196
+28-02-2018 03:30,Govt Stanley Hospital,act323,Violence,Victim155
+28-02-2018 01:30,Kodungaiyur,act379,Robbery,Victim137
+28-02-2018 19:00,Flower Bazaar,act323,Violence,Victim47
+28-02-2018 14:10,Tidel Park,act323,Violence,Victim79
+28-02-2018 14:25,Thygarayanagar South NDS.O,act323,Violence,Victim7
+28-02-2018 22:00,Kilpauk Medical College,act13,Gambling,Victim118
+28-02-2018 22:00,Govt Stanley Hospital,act323,Violence,Victim53
+28-02-2018 22:10,Icf Colony,act323,Violence,Victim102
+28-02-2018 12:00,Mannady,act379,Robbery,Victim169
+28-02-2018 13:30,Chetput,act363,Kidnapping,Victim127
+28-02-2018 03:00,Kotturpuram,act323,Violence,Victim4
+28-02-2018 23:50,Velacheri,act323,Violence,Victim198
+28-02-2018 19:00,Madras University,act379,Robbery,Victim126
+28-02-2018 11:55,Gopalapuram,act279,Accident,Victim125
+28-02-2018 11:00,Thygarayanagar,act323,Violence,Victim146
+28-02-2018 18:00,Pudupakkam,act279,Accident,Victim75
+28-02-2018 01:00,Teynampet,act323,Violence,Victim73
+28-02-2018 00:00,Rajbhavan,act379,Robbery,Victim57
+28-02-2018 22:10,Nungambakkam,act279,Accident,Victim102
+28-02-2018 22:30,Engineering College,act13,Gambling,Victim184
+28-02-2018 08:40,Kasturibai Nagar,act279,Accident,Victim186
+28-02-2018 15:40,Puliyanthope,act323,Violence,Victim23
+28-02-2018 15:50,Tondiarpet,act323,Violence,Victim9
+28-02-2018 00:00,World University Centre,act379,Robbery,Victim177
+28-02-2018 15:00,Mint Building,act323,Violence,Victim132
+28-02-2018 15:30,Shastri Nagar,act323,Violence,Victim109
+28-02-2018 19:05,Tondiarpet Bazaar,act323,Violence,Victim97
+28-02-2018 19:25,Sembiam,act323,Violence,Victim54
+28-02-2018 19:50,Kasturibai Nagar,act323,Violence,Victim195
+28-02-2018 19:20,Flowers Road,act323,Violence,Victim19
+28-02-2018 13:00,Ekkaduthangal,act323,Violence,Victim64
+28-02-2018 16:00,Virugambakkam,act323,Violence,Victim112
+28-02-2018 21:45,Ripon Buildings,act323,Violence,Victim195
+28-02-2018 23:00,Mambalam.,act323,Violence,Victim48
+28-02-2018 19:30,Velacheri,act279,Accident,Victim79
+28-02-2018 17:00,Icf Colony,act13,Gambling,Victim175
+28-02-2018 19:45,Guindy Industrial Estate,act13,Gambling,Victim117
+28-02-2018 19:00,Kodungaiyur,act323,Violence,Victim160
+28-02-2018 20:00,Jawahar Nagar,act323,Violence,Victim110
+28-02-2018 17:00,Shastri Bhavan,act279,Accident,Victim143
+28-02-2018 20:30,Flowers Road,act323,Violence,Victim48
+28-02-2018 15:50,Nungambakkam High Road,act13,Gambling,Victim11
+01-03-2018 12:00,Tondiarpet,act379,Robbery,Victim67
+01-03-2018 14:30,Loyola College,act379,Robbery,Victim162
+03-01-2018 16:30,Shastri Nagar,act379,Robbery,Victim168
+01-03-2018 22:30,Chennai,act379,Robbery,Victim136
+01-03-2018 18:35,Mint Building,act379,Robbery,Victim91
+01-03-2018 16:40,Vivekananda College Madras,act379,Robbery,Victim64
+01-03-2018 01:45,Washermanpet East,act379,Robbery,Victim93
+01-03-2018 12:00,Washermanpet,act379,Robbery,Victim78
+01-03-2018 12:20,Old College Buildings,act279,Accident,Victim174
+01-03-2018 17:20,Besantnagar,act279,Accident,Victim148
+01-03-2018 15:35,Sembiam,act279,Accident,Victim176
+01-03-2018 22:35,Sembiam,act279,Accident,Victim41
+01-03-2018 16:20,Sembiam,act279,Accident,Victim147
+01-03-2018 17:30,Chintadripet,act279,Accident,Victim12
+01-03-2018 15:25,Teynampet,act279,Accident,Victim11
+01-03-2018 18:25,Vadapalani,act323,Violence,Victim40
+01-03-2018 20:45,Guindy Industrial Estate,act323,Violence,Victim131
+01-03-2018 11:45,MPT AO,act323,Violence,Victim180
+01-03-2018 19:50,Koyambedu,act363,Kidnapping,Victim91
+01-03-2018 15:30,Madras Electricity System,act363,Kidnapping,Victim96
+01-03-2018 16:05,Medavakkam Tank Road,act363,Kidnapping,Victim138
+01-03-2018 15:15,Kasturibai Nagar,act13,Gambling,Victim75
+01-03-2018 15:20,Vyasar Nagar Colony,act13,Gambling,Victim154
+01-03-2018 22:20,Chintadripet,act323,Violence,Victim68
+01-03-2018 22:30,Old College Buildings,act379,Robbery,Victim15
+01-03-2018 18:25,Thygarayanagar,act323,Violence,Victim16
+01-03-2018 08:55,Ekkaduthangal,act379,Robbery,Victim133
+01-03-2018 14:20,Tidel Park,act379,Robbery,Victim44
+01-03-2018 00:55,Thygarayanagar,act279,Accident,Victim67
+01-03-2018 18:35,Ramakrishna Nagar,act323,Violence,Victim159
+01-03-2018 12:05,Raja Annamalaipuram,act379,Robbery,Victim9
+03-03-2018 20:10,Park Town,act379,Robbery,Victim41
+03-03-2018 20:05,Nandanam,act379,Robbery,Victim196
+03-03-2018 19:45,Mandaveli,act379,Robbery,Victim71
+03-03-2018 15:30,Ekkaduthangal,act379,Robbery,Victim19
+03-03-2018 16:00,Raja Annamalaipuram,act379,Robbery,Victim161
+03-03-2018 13:40,Sowcarpet,act279,Accident,Victim13
+03-03-2018 17:40,Pudupakkam,act279,Accident,Victim66
+03-03-2018 12:50,Washermanpet,act279,Accident,Victim125
+03-03-2018 13:00,D G Vaishnav College,act279,Accident,Victim33
+03-03-2018 23:10,Medavakkam Tank Road,act279,Accident,Victim179
+03-03-2018 20:40,Mandaveli,act279,Accident,Victim45
+03-03-2018 04:10,Sembiam,act323,Violence,Victim8
+03-03-2018 20:05,Chintadripet,act323,Violence,Victim124
+03-03-2018 00:15,Shenoy Nagar,act323,Violence,Victim181
+03-03-2018 22:50,Egmore ND,act323,Violence,Victim72
+03-03-2018 23:40,Perambur North,act363,Kidnapping,Victim148
+03-03-2018 14:10,Perambur Barracks,act363,Kidnapping,Victim130
+03-03-2018 22:50,Madras University,act279,Accident,Victim36
+03-03-2018 03:15,Shastri Bhavan,act279,Accident,Victim83
+03-03-2018 16:10,Besantnagar,act279,Accident,Victim199
+03-03-2018 17:50,Jafferkhanpet,act279,Accident,Victim169
+03-03-2018 21:20,G K M Colony,act323,Violence,Victim55
+03-03-2018 11:20,Shenoy Nagar,act279,Accident,Victim12
+03-03-2018 14:00,Tondiarpet Bazaar,act323,Violence,Victim194
+04-03-2018 09:00,Nungambakkam High Road,act323,Violence,Victim9
+04-03-2018 19:05,West Mambalam,act279,Accident,Victim133
+04-03-2018 14:30,Egmore ND,act279,Accident,Victim47
+04-03-2018 23:05,Saidapet,act323,Violence,Victim41
+04-03-2018 22:00,Kilpauk,act323,Violence,Victim143
+04-03-2018 18:30,Vyasarpadi,act323,Violence,Victim178
+04-03-2018 22:00,Tondiarpet West,act323,Violence,Victim163
+04-03-2018 13:40,Tidel Park,act279,Accident,Victim171
+04-03-2018 18:00,Kilpauk Medical College,act379,Robbery,Victim132
+04-03-2018 13:30,Raja Annamalaipuram,act323,Violence,Victim177
+04-03-2018 21:30,Pr. Accountant General,act279,Accident,Victim126
+04-03-2018 22:00,Puliyanthope,act323,Violence,Victim108
+04-03-2018 08:00,Greams Road,act279,Accident,Victim149
+04-03-2018 20:00,Vyasar Nagar Colony,act323,Violence,Victim133
+04-03-2018 08:30,Vyasar Nagar Colony,act323,Violence,Victim57
+04-03-2018 17:00,Sowcarpet,act302,Murder,Victim39
+04-03-2018 21:00,Kumaran Nagar,act279,Accident,Victim142
+05-03-2018 06:15,Chepauk,act279,Accident,Victim188
+05-03-2018 23:00,Perambur,act323,Violence,Victim148
+05-03-2018 07:30,Kotturpuram,act279,Accident,Victim127
+05-03-2018 19:30,Rajbhavan,act13,Gambling,Victim52
+05-03-2018 20:00,Perambur Barracks,act279,Accident,Victim76
+05-03-2018 13:30,Kilpauk Medical College,act323,Violence,Victim154
+05-03-2018 10:00,Mandaveli,act279,Accident,Victim129
+05-03-2018 14:00,Chetput,act279,Accident,Victim46
+05-03-2018 23:10,Guindy Industrial Estate,act279,Accident,Victim52
+05-03-2018 19:05,Old College Buildings,act379,Robbery,Victim136
+05-03-2018 19:10,Nungambakkam,act379,Robbery,Victim85
+05-03-2018 03:30,Kalaignar Karunanidhi Nagar,act323,Violence,Victim80
+05-03-2018 18:45,Egmore ND,act379,Robbery,Victim152
+05-03-2018 12:10,Madras Medical College,act379,Robbery,Victim57
+05-03-2018 14:25,Tiruvallikkeni,act279,Accident,Victim146
+05-03-2018 15:40,Ripon Buildings,act279,Accident,Victim139
+05-03-2018 00:45,Old College Buildings,act323,Violence,Victim162
+05-03-2018 13:15,Chetput,act323,Violence,Victim130
+05-03-2018 14:00,Loyola College,act279,Accident,Victim188
+05-03-2018 22:20,Kodungaiyur,act279,Accident,Victim100
+05-03-2018 19:45,Shenoy Nagar,act379,Robbery,Victim58
+05-03-2018 14:55,G K M Colony,act379,Robbery,Victim197
+05-03-2018 21:40,Jafferkhanpet,act279,Accident,Victim191
+05-03-2018 22:00,Nungambakkam High Road,act302,Murder,Victim28
+05-03-2018 19:10,High Court Building,act279,Accident,Victim26
+05-03-2018 21:00,Erukkancheri,act323,Violence,Victim97
+05-03-2018 18:15,Sowcarpet,act323,Violence,Victim17
+06-03-2018 11:40,Triplicane South,act323,Violence,Victim139
+06-03-2018 17:30,Rayapuram,act279,Accident,Victim82
+06-03-2018 15:20,Kodungaiyur,act279,Accident,Victim27
+06-03-2018 21:15,Raja Annamalaipuram,act323,Violence,Victim23
+06-03-2018 20:45,Teynampet West,act363,Kidnapping,Victim44
+06-03-2018 13:45,Jafferkhanpet,act279,Accident,Victim16
+06-03-2018 15:30,Perambur Barracks,act323,Violence,Victim188
+06-03-2018 17:25,D G Vaishnav College,act323,Violence,Victim100
+06-03-2018 18:40,Egmore ND,act279,Accident,Victim172
+06-03-2018 14:30,Shastri Bhavan,act279,Accident,Victim20
+06-03-2018 20:30,Indian Institute Of Technology,act323,Violence,Victim114
+06-03-2018 01:35,Chepauk,act323,Violence,Victim67
+06-03-2018 11:30,Kilpauk,act279,Accident,Victim48
+06-03-2018 10:10,Ramakrishna Nagar,act323,Violence,Victim159
+07-03-2018 14:50,Jafferkhanpet,act279,Accident,Victim23
+07-03-2018 20:40,Madras Electricity System,act379,Robbery,Victim73
+07-03-2018 13:35,Triplicane South,act363,Kidnapping,Victim192
+07-03-2018 22:55,Vyasarpadi,act279,Accident,Victim101
+7/3/2018 16.42 ,Nungambakkam High Road,act323,Violence,Victim164
+7/3/2018 17.28,Nungambakkam High Road,act323,Violence,Victim152
+07-03-2018 18:05,D G Vaishnav College,act379,Robbery,Victim182
+07-03-2018 14:00,Choolaimedu,act379,Robbery,Victim115
+07-03-2018 16:00,Jawahar Nagar,act279,Accident,Victim140
+07-03-2018 18:00,Saidapet,act323,Violence,Victim104
+07-03-2018 00:35,Ramakrishna Nagar,act323,Violence,Victim148
+07-03-2018 20:20,Guindy North,act279,Accident,Victim119
+07-03-2018 13:00,Govt Stanley Hospital,act323,Violence,Victim93
+07-03-2018 16:15,Vyasarpadi,act323,Violence,Victim128
+07-03-2018 17:00,Kilpauk,act323,Violence,Victim177
+07-03-2018 19:05,Besantnagar,act279,Accident,Victim149
+07-03-2018 12:50,Venkatesapuram,act379,Robbery,Victim35
+07-03-2018 21:05,TTTI Taramani,act323,Violence,Victim80
+07-03-2018 12:20,Saligramam,act279,Accident,Victim197
+07-03-2018 20:20,Puliyanthope,act379,Robbery,Victim143
+07-03-2018 20:40,Tondiarpet Bazaar,act279,Accident,Victim60
+07-03-2018 19:55,Tiruvanmiyur,act363,Kidnapping,Victim131
+07-03-2018 21:20,Ethiraj Salai,act323,Violence,Victim188
+07-03-2018 03:50,Vepery,act323,Violence,Victim40
+07-03-2018 21:10,G K M Colony,act323,Violence,Victim147
+07-03-2018 12:10,Ripon Buildings,act279,Accident,Victim65
+07-03-2018 10:35,Nandanam,act279,Accident,Victim94
+07-03-2018 23:45,Washermanpet East,act279,Accident,Victim137
+28-02-2018 21:00,Shastri Bhavan,act379,Robbery,Victim94
+28-02-2018 21:15,Rayapuram,act379,Robbery,Victim121
+28-02-2018 10:15,Washermanpet,act279,Accident,Victim41
+28-02-2018 10:15,Pr. Accountant General,act279,Accident,Victim161
+28-02-2018 10:30,Nandanam,act279,Accident,Victim2
+28-02-2018 14:15,Perambur,act323,Violence,Victim19
+28-02-2018 08:00,Washermanpet East,act363,Kidnapping,Victim116
+28-02-2018 03:30,Ripon Buildings,act323,Violence,Victim161
+28-02-2018 01:30,Mambalam.,act379,Robbery,Victim146
+28-02-2018 19:00,Perambur,act323,Violence,Victim55
+28-02-2018 14:10,Greams Road,act323,Violence,Victim137
+28-02-2018 14:25,Shastri Bhavan,act323,Violence,Victim44
+28-02-2018 22:00,Mandaveli,act13,Gambling,Victim19
+28-02-2018 22:00,Rajaji Bhavan,act323,Violence,Victim186
+28-02-2018 22:10,Saidapet,act323,Violence,Victim74
+28-02-2018 12:00,D G Vaishnav College,act379,Robbery,Victim117
+28-02-2018 13:30,Rv Nagar,act363,Kidnapping,Victim192
+28-02-2018 03:00,Valmiki Nagar,act323,Violence,Victim121
+28-02-2018 23:50,Rv Nagar,act323,Violence,Victim62
+28-02-2018 19:00,Jawahar Nagar,act379,Robbery,Victim1
+28-02-2018 11:55,Nungambakkam High Road,act279,Accident,Victim53
+28-02-2018 11:00,Thygarayanagar South NDS.O,act323,Violence,Victim124
+28-02-2018 18:00,Washermanpet,act279,Accident,Victim124
+28-02-2018 01:00,Choolaimedu,act323,Violence,Victim59
+28-02-2018 00:00,Thygarayanagar North ND,act379,Robbery,Victim103
+28-02-2018 22:10,Koyambedu,act279,Accident,Victim122
+28-02-2018 22:30,Ramakrishna Nagar,act13,Gambling,Victim65
+28-02-2018 08:40,Kodambakkam,act279,Accident,Victim33
+28-02-2018 15:40,Koyambedu,act323,Violence,Victim116
+28-02-2018 15:50,Mint Building,act323,Violence,Victim163
+28-02-2018 00:00,Teynampet West,act379,Robbery,Victim195
+28-02-2018 15:00,G K M Colony,act323,Violence,Victim189
+28-02-2018 15:30,Mylapore,act323,Violence,Victim115
+28-02-2018 19:05,Ekkaduthangal,act323,Violence,Victim100
+28-02-2018 19:25,Rajaji Bhavan,act323,Violence,Victim28
+28-02-2018 19:50,Koyambedu Wholesale Market Com,act323,Violence,Victim52
+28-02-2018 19:20,Rayapuram,act323,Violence,Victim53
+28-02-2018 13:00,Vadapalani,act323,Violence,Victim148
+28-02-2018 16:00,Egmore ND,act323,Violence,Victim93
+28-02-2018 21:45,Mambalam.,act323,Violence,Victim27
+28-02-2018 23:00,Tidel Park,act323,Violence,Victim101
+28-02-2018 19:30,Madras University,act279,Accident,Victim128
+28-02-2018 17:00,High Court Building,act13,Gambling,Victim13
+28-02-2018 19:45,Icf Colony,act13,Gambling,Victim59
+28-02-2018 19:00,Medavakkam Tank Road,act323,Violence,Victim90
+28-02-2018 20:00,Flower Bazaar,act323,Violence,Victim155
+28-02-2018 17:00,Triplicane South,act279,Accident,Victim83
+28-02-2018 20:30,Vadapalani,act323,Violence,Victim192
+28-02-2018 15:50,Shastri Nagar,act13,Gambling,Victim130
+01-03-2018 12:00,Flower Bazaar,act379,Robbery,Victim124
+01-03-2018 14:30,Flower Bazaar,act379,Robbery,Victim22
+03-01-2018 16:30,Tondiarpet,act379,Robbery,Victim30
+01-03-2018 22:30,Flowers Road,act379,Robbery,Victim130
+01-03-2018 18:35,Vepery,act379,Robbery,Victim4
+01-03-2018 16:40,Thygarayanagar South NDS.O,act379,Robbery,Victim167
+01-03-2018 01:45,Hindi Prachar Sabha,act379,Robbery,Victim170
+01-03-2018 12:00,Loyola College,act379,Robbery,Victim132
+01-03-2018 12:20,West Mambalam,act279,Accident,Victim174
+01-03-2018 17:20,Velacheri,act279,Accident,Victim32
+01-03-2018 15:35,Shenoy Nagar,act279,Accident,Victim131
+01-03-2018 22:35,Ripon Buildings,act279,Accident,Victim88
+01-03-2018 16:20,Kodambakkam,act279,Accident,Victim38
+01-03-2018 17:30,Medavakkam Tank Road,act279,Accident,Victim192
+01-03-2018 15:25,Kotturpuram,act279,Accident,Victim55
+01-03-2018 18:25,Thygarayanagar,act323,Violence,Victim91
+01-03-2018 20:45,D G Vaishnav College,act323,Violence,Victim154
+01-03-2018 11:45,Hindi Prachar Sabha,act323,Violence,Victim152
+01-03-2018 19:50,Kodungaiyur,act363,Kidnapping,Victim6
+01-03-2018 15:30,Raja Annamalaipuram,act363,Kidnapping,Victim137
+01-03-2018 16:05,Loyola College,act363,Kidnapping,Victim153
+01-03-2018 15:15,Chintadripet,act13,Gambling,Victim15
+01-03-2018 15:20,Shastri Nagar,act13,Gambling,Victim186
+01-03-2018 22:20,Old College Buildings,act323,Violence,Victim166
+01-03-2018 22:30,Perambur Barracks,act379,Robbery,Victim8
+01-03-2018 18:25,Chennai,act323,Violence,Victim86
+01-03-2018 08:55,Choolaimedu,act379,Robbery,Victim105
+01-03-2018 14:20,Raja Annamalaipuram,act379,Robbery,Victim74
+01-03-2018 00:55,Thygarayanagar North ND,act279,Accident,Victim109
+01-03-2018 18:35,TTTI Taramani,act323,Violence,Victim108
+01-03-2018 12:05,Pr. Accountant General,act379,Robbery,Victim188
+03-03-2018 20:10,Perambur Barracks,act379,Robbery,Victim108
+03-03-2018 20:05,Choolaimedu,act379,Robbery,Victim195
+03-03-2018 19:45,Vyasar Nagar Colony,act379,Robbery,Victim75
+03-03-2018 15:30,Chetput,act379,Robbery,Victim103
+03-03-2018 16:00,D G Vaishnav College,act379,Robbery,Victim149
+03-03-2018 13:40,Rajaji Bhavan,act279,Accident,Victim180
+03-03-2018 17:40,Triplicane South,act279,Accident,Victim197
+03-03-2018 12:50,Ramakrishna Nagar,act279,Accident,Victim35
+03-03-2018 13:00,Tondiarpet West,act279,Accident,Victim76
+03-03-2018 23:10,Perambur,act279,Accident,Victim156
+03-03-2018 20:40,Vyasar Nagar Colony,act279,Accident,Victim51
+03-03-2018 04:10,Mylapore,act323,Violence,Victim122
+03-03-2018 20:05,TTTI Taramani,act323,Violence,Victim5
+03-03-2018 00:15,Vyasarpadi,act323,Violence,Victim34
+03-03-2018 22:50,G K M Colony,act323,Violence,Victim186
+03-03-2018 23:40,Perambur North,act363,Kidnapping,Victim50
+03-03-2018 14:10,Tidel Park,act363,Kidnapping,Victim174
+03-03-2018 22:50,Kodungaiyur,act279,Accident,Victim82
+03-03-2018 03:15,D G Vaishnav College,act279,Accident,Victim14
+03-03-2018 16:10,Puliyanthope,act279,Accident,Victim89
+03-03-2018 17:50,Shenoy Nagar,act279,Accident,Victim48
+03-03-2018 21:20,Perambur Barracks,act323,Violence,Victim134
+03-03-2018 11:20,Erukkancheri,act279,Accident,Victim38
+03-03-2018 14:00,Egmore ND,act323,Violence,Victim144
+04-03-2018 09:00,Mint Building,act323,Violence,Victim40
+04-03-2018 19:05,Kodambakkam,act279,Accident,Victim12
+04-03-2018 14:30,West Mambalam,act279,Accident,Victim21
+04-03-2018 23:05,Chintadripet,act323,Violence,Victim131
+04-03-2018 22:00,Madras Electricity System,act323,Violence,Victim16
+04-03-2018 18:30,Vyasarpadi,act323,Violence,Victim109
+04-03-2018 22:00,Jawahar Nagar,act323,Violence,Victim85
+04-03-2018 13:40,Jawahar Nagar,act279,Accident,Victim37
+04-03-2018 18:00,Mannady,act379,Robbery,Victim168
+04-03-2018 13:30,Hindi Prachar Sabha,act323,Violence,Victim103
+04-03-2018 21:30,Erukkancheri,act279,Accident,Victim183
+04-03-2018 22:00,Egmore,act323,Violence,Victim103
+04-03-2018 08:00,Chepauk,act279,Accident,Victim89
+04-03-2018 20:00,Besantnagar,act323,Violence,Victim49
+04-03-2018 08:30,Park Town,act323,Violence,Victim155
+04-03-2018 17:00,Greams Road,act302,Murder,Victim54
+04-03-2018 21:00,Kodambakkam,act279,Accident,Victim182
+05-03-2018 06:15,Madras University,act279,Accident,Victim67
+05-03-2018 23:00,Pudupakkam,act323,Violence,Victim4
+05-03-2018 07:30,Mambalam.,act279,Accident,Victim136
+05-03-2018 19:30,Jafferkhanpet,act13,Gambling,Victim109
+05-03-2018 20:00,Ekkaduthangal,act279,Accident,Victim71
+05-03-2018 13:30,Mint Building,act323,Violence,Victim24
+05-03-2018 10:00,Washermanpet East,act279,Accident,Victim50
+05-03-2018 14:00,Chetput,act279,Accident,Victim194
+05-03-2018 23:10,Perambur North,act279,Accident,Victim14
+05-03-2018 19:05,Fort St George,act379,Robbery,Victim127
+05-03-2018 19:10,Tiruvallikkeni,act379,Robbery,Victim112
+05-03-2018 03:30,Saidapet,act323,Violence,Victim85
+05-03-2018 18:45,World University Centre,act379,Robbery,Victim74
+05-03-2018 12:10,Kodungaiyur,act379,Robbery,Victim80
+05-03-2018 14:25,Fort St George,act279,Accident,Victim51
+05-03-2018 15:40,Gopalapuram,act279,Accident,Victim46
+05-03-2018 00:45,Kumaran Nagar,act323,Violence,Victim56
+05-03-2018 13:15,Mylapore,act323,Violence,Victim1
+05-03-2018 14:00,Govt Stanley Hospital,act279,Accident,Victim158
+05-03-2018 22:20,Washermanpet,act279,Accident,Victim26
+05-03-2018 19:45,Washermanpet East,act379,Robbery,Victim55
+05-03-2018 14:55,Govt Stanley Hospital,act379,Robbery,Victim174
+05-03-2018 21:40,Washermanpet East,act279,Accident,Victim166
+05-03-2018 22:00,Kotturpuram,act302,Murder,Victim138
+05-03-2018 19:10,Nandanam,act279,Accident,Victim190
+05-03-2018 21:00,Tondiarpet Bazaar,act323,Violence,Victim25
+05-03-2018 18:15,Vyasar Nagar Colony,act323,Violence,Victim141
+06-03-2018 11:40,Egmore,act323,Violence,Victim136
+06-03-2018 17:30,Ethiraj Salai,act279,Accident,Victim82
+06-03-2018 15:20,Rayapuram,act279,Accident,Victim165
+06-03-2018 21:15,Loyola College,act323,Violence,Victim76
+06-03-2018 20:45,Egmore,act363,Kidnapping,Victim31
+06-03-2018 13:45,Egmore ND,act279,Accident,Victim139
+06-03-2018 15:30,Kasturibai Nagar,act323,Violence,Victim94
+06-03-2018 17:25,Gopalapuram,act323,Violence,Victim131
+06-03-2018 18:40,Choolaimedu,act279,Accident,Victim14
+06-03-2018 14:30,Mylapore,act279,Accident,Victim39
+06-03-2018 20:30,Saligramam,act323,Violence,Victim8
+06-03-2018 01:35,Virugambakkam,act323,Violence,Victim96
+06-03-2018 11:30,Mannady,act279,Accident,Victim56
+06-03-2018 10:10,Chetput,act323,Violence,Victim131
+07-03-2018 14:50,Flower Bazaar,act279,Accident,Victim66
+07-03-2018 20:40,Greams Road,act379,Robbery,Victim139
+07-03-2018 13:35,Velacheri,act363,Kidnapping,Victim63
+07-03-2018 22:55,Besantnagar,act279,Accident,Victim46
+7/3/2018 16.42 ,Ethiraj Salai,act323,Violence,Victim126
+7/3/2018 17.28,Pr. Accountant General,act323,Violence,Victim78
+07-03-2018 18:05,Mannady,act379,Robbery,Victim150
+07-03-2018 14:00,World University Centre,act379,Robbery,Victim46
+07-03-2018 16:00,Velacheri,act279,Accident,Victim63
+07-03-2018 18:00,Medavakkam Tank Road,act323,Violence,Victim104
+07-03-2018 00:35,Loyola College,act323,Violence,Victim172
+07-03-2018 20:20,Icf Colony,act279,Accident,Victim123
+07-03-2018 13:00,Shastri Nagar,act323,Violence,Victim151
+07-03-2018 16:15,Gopalapuram,act323,Violence,Victim171
+07-03-2018 17:00,Besantnagar,act323,Violence,Victim102
+07-03-2018 19:05,Erukkancheri,act279,Accident,Victim20
+07-03-2018 12:50,Ripon Buildings,act379,Robbery,Victim200
+07-03-2018 21:05,Tiruvanmiyur,act323,Violence,Victim103
+07-03-2018 12:20,Perambur Barracks,act279,Accident,Victim157
+07-03-2018 20:20,Perambur North,act379,Robbery,Victim14
+07-03-2018 20:40,Koyambedu,act279,Accident,Victim101
+07-03-2018 19:55,Tidel Park,act363,Kidnapping,Victim133
+07-03-2018 21:20,Govt Stanley Hospital,act323,Violence,Victim65
+07-03-2018 03:50,Nandanam,act323,Violence,Victim193
+07-03-2018 21:10,Chepauk,act323,Violence,Victim81
+07-03-2018 12:10,D G Vaishnav College,act279,Accident,Victim72
+07-03-2018 10:35,Perambur North,act279,Accident,Victim14
+07-03-2018 23:45,Lloyds Estate,act279,Accident,Victim22
+28-02-2018 21:00,Chintadripet,act379,Robbery,Victim98
+28-02-2018 21:15,Vyasarpadi,act379,Robbery,Victim72
+28-02-2018 10:15,Flower Bazaar,act279,Accident,Victim27
+28-02-2018 10:15,Perambur Barracks,act279,Accident,Victim13
+28-02-2018 10:30,Washermanpet,act279,Accident,Victim12
+28-02-2018 14:15,TTTI Taramani,act323,Violence,Victim195
+28-02-2018 08:00,Mambalam.,act363,Kidnapping,Victim29
+28-02-2018 03:30,Kasturibai Nagar,act323,Violence,Victim189
+28-02-2018 01:30,Edapalayam,act379,Robbery,Victim15
+28-02-2018 19:00,Kodungaiyur,act323,Violence,Victim170
+28-02-2018 14:10,Loyola College,act323,Violence,Victim95
+28-02-2018 14:25,Mannady,act323,Violence,Victim184
+28-02-2018 22:00,Guindy Industrial Estate,act13,Gambling,Victim130
+28-02-2018 22:00,Madras University,act323,Violence,Victim23
+28-02-2018 22:10,Loyola College,act323,Violence,Victim48
+28-02-2018 12:00,Choolaimedu,act379,Robbery,Victim117
+28-02-2018 13:30,Saligramam,act363,Kidnapping,Victim62
+28-02-2018 03:00,Chennai,act323,Violence,Victim198
+28-02-2018 23:50,Vepery,act323,Violence,Victim141
+28-02-2018 19:00,Rajaji Bhavan,act379,Robbery,Victim78
+28-02-2018 11:55,Koyambedu Wholesale Market Com,act279,Accident,Victim159
+28-02-2018 11:00,Tondiarpet,act323,Violence,Victim45
+28-02-2018 18:00,Perambur North,act279,Accident,Victim101
+28-02-2018 01:00,Teynampet,act323,Violence,Victim34
+28-02-2018 00:00,Chennai,act379,Robbery,Victim5
+28-02-2018 22:10,Indian Institute Of Technology,act279,Accident,Victim38
+28-02-2018 22:30,Jawahar Nagar,act13,Gambling,Victim24
+28-02-2018 08:40,Kumaran Nagar,act279,Accident,Victim58
+28-02-2018 15:40,Chepauk,act323,Violence,Victim41
+28-02-2018 15:50,Teynampet West,act323,Violence,Victim100
+28-02-2018 00:00,Icf Colony,act379,Robbery,Victim51
+28-02-2018 15:00,Medavakkam Tank Road,act323,Violence,Victim130
+28-02-2018 15:30,Mambalam.,act323,Violence,Victim119
+28-02-2018 19:05,Tiruvallikkeni,act323,Violence,Victim136
+28-02-2018 19:25,Tidel Park,act323,Violence,Victim85
+28-02-2018 19:50,Teynampet West,act323,Violence,Victim68
+28-02-2018 19:20,Chetput,act323,Violence,Victim190
+28-02-2018 13:00,Virugambakkam,act323,Violence,Victim79
+28-02-2018 16:00,Sowcarpet,act323,Violence,Victim17
+28-02-2018 21:45,Choolaimedu,act323,Violence,Victim197
+28-02-2018 23:00,Madras University,act323,Violence,Victim47
+28-02-2018 19:30,Shastri Nagar,act279,Accident,Victim75
+28-02-2018 17:00,Mannady,act13,Gambling,Victim44
+28-02-2018 19:45,Rajbhavan,act13,Gambling,Victim181
+28-02-2018 19:00,Tondiarpet Bazaar,act323,Violence,Victim9
+28-02-2018 20:00,Loyola College,act323,Violence,Victim114
+28-02-2018 17:00,Sembiam,act279,Accident,Victim100
+28-02-2018 20:30,Pr. Accountant General,act323,Violence,Victim141
+28-02-2018 15:50,Koyambedu,act13,Gambling,Victim110
+01-03-2018 12:00,Valmiki Nagar,act379,Robbery,Victim64
+01-03-2018 14:30,Chetput,act379,Robbery,Victim12
+03-01-2018 16:30,Perambur North,act379,Robbery,Victim83
+01-03-2018 22:30,Flower Bazaar,act379,Robbery,Victim196
+01-03-2018 18:35,Engineering College,act379,Robbery,Victim84
+01-03-2018 16:40,Triplicane South,act379,Robbery,Victim98
+01-03-2018 01:45,Saligramam,act379,Robbery,Victim110
+01-03-2018 12:00,Jawahar Nagar,act379,Robbery,Victim6
+01-03-2018 12:20,Loyola College,act279,Accident,Victim41
+01-03-2018 17:20,Besantnagar,act279,Accident,Victim26
+01-03-2018 15:35,Chintadripet,act279,Accident,Victim104
+01-03-2018 22:35,Erukkancheri,act279,Accident,Victim12
+01-03-2018 16:20,Icf Colony,act279,Accident,Victim157
+01-03-2018 17:30,Puliyanthope,act279,Accident,Victim76
+01-03-2018 15:25,Lloyds Estate,act279,Accident,Victim69
+01-03-2018 18:25,West Mambalam,act323,Violence,Victim120
+01-03-2018 20:45,Shastri Nagar,act323,Violence,Victim142
+01-03-2018 11:45,Kasturibai Nagar,act323,Violence,Victim183
+01-03-2018 19:50,Saligramam,act363,Kidnapping,Victim85
+01-03-2018 15:30,D G Vaishnav College,act363,Kidnapping,Victim168
+01-03-2018 16:05,Kalaignar Karunanidhi Nagar,act363,Kidnapping,Victim93
+01-03-2018 15:15,Perambur,act13,Gambling,Victim82
+01-03-2018 15:20,Loyola College,act13,Gambling,Victim172
+01-03-2018 22:20,Old College Buildings,act323,Violence,Victim172
+01-03-2018 22:30,Kotturpuram,act379,Robbery,Victim162
+01-03-2018 18:25,Royapettah,act323,Violence,Victim153
+01-03-2018 08:55,Chepauk,act379,Robbery,Victim196
+01-03-2018 14:20,Nungambakkam High Road,act379,Robbery,Victim148
+01-03-2018 00:55,West Mambalam,act279,Accident,Victim97
+01-03-2018 18:35,Govt Stanley Hospital,act323,Violence,Victim128
+01-03-2018 12:05,Chennai,act379,Robbery,Victim147
+03-03-2018 20:10,Kodungaiyur,act379,Robbery,Victim56
+03-03-2018 20:05,Kodungaiyur,act379,Robbery,Victim134
+03-03-2018 19:45,Loyola College,act379,Robbery,Victim185
+03-03-2018 15:30,Vepery,act379,Robbery,Victim66
+03-03-2018 16:00,Tondiarpet,act379,Robbery,Victim21
+03-03-2018 13:40,Madras Medical College,act279,Accident,Victim181
+03-03-2018 17:40,West Mambalam,act279,Accident,Victim138
+03-03-2018 12:50,Egmore ND,act279,Accident,Victim122
+03-03-2018 13:00,G K M Colony,act279,Accident,Victim119
+03-03-2018 23:10,Nungambakkam,act279,Accident,Victim143
+03-03-2018 20:40,Nungambakkam,act279,Accident,Victim127
+03-03-2018 04:10,Shastri Nagar,act323,Violence,Victim168
+03-03-2018 20:05,Engineering College,act323,Violence,Victim31
+03-03-2018 00:15,Tiruvanmiyur,act323,Violence,Victim96
+03-03-2018 22:50,Chintadripet,act323,Violence,Victim183
+03-03-2018 23:40,Fort St George,act363,Kidnapping,Victim154
+03-03-2018 14:10,TTTI Taramani,act363,Kidnapping,Victim196
+03-03-2018 22:50,Perambur,act279,Accident,Victim46
+03-03-2018 03:15,Puliyanthope,act279,Accident,Victim179
+03-03-2018 16:10,Kilpauk Medical College,act279,Accident,Victim54
+03-03-2018 17:50,World University Centre,act279,Accident,Victim10
+03-03-2018 21:20,Kumaran Nagar,act323,Violence,Victim190
+03-03-2018 11:20,Erukkancheri,act279,Accident,Victim128
+03-03-2018 14:00,Mylapore,act323,Violence,Victim34
+04-03-2018 09:00,Medavakkam Tank Road,act323,Violence,Victim71
+04-03-2018 19:05,Raja Annamalaipuram,act279,Accident,Victim14
+04-03-2018 14:30,High Court Building,act279,Accident,Victim181
+04-03-2018 23:05,Pr. Accountant General,act323,Violence,Victim61
+04-03-2018 22:00,Egmore,act323,Violence,Victim186
+04-03-2018 18:30,Vyasarpadi,act323,Violence,Victim190
+04-03-2018 22:00,Ramakrishna Nagar,act323,Violence,Victim87
+04-03-2018 13:40,Kotturpuram,act279,Accident,Victim108
+04-03-2018 18:00,Rayapuram,act379,Robbery,Victim32
+04-03-2018 13:30,Park Town,act323,Violence,Victim119
+04-03-2018 21:30,Vyasarpadi,act279,Accident,Victim13
+04-03-2018 22:00,Tondiarpet Bazaar,act323,Violence,Victim9
+04-03-2018 08:00,Kilpauk Medical College,act279,Accident,Victim111
+04-03-2018 20:00,Besantnagar,act323,Violence,Victim184
+04-03-2018 08:30,Washermanpet East,act323,Violence,Victim72
+04-03-2018 17:00,Perambur North,act302,Murder,Victim103
+04-03-2018 21:00,Virugambakkam,act279,Accident,Victim196
+05-03-2018 06:15,Nungambakkam High Road,act279,Accident,Victim38
+05-03-2018 23:00,Sembiam,act323,Violence,Victim69
+05-03-2018 07:30,Egmore ND,act279,Accident,Victim164
+05-03-2018 19:30,Rajaji Bhavan,act13,Gambling,Victim105
+05-03-2018 20:00,Chennai,act279,Accident,Victim177
+05-03-2018 13:30,Kumaran Nagar,act323,Violence,Victim16
+05-03-2018 10:00,Venkatesapuram,act279,Accident,Victim93
+05-03-2018 14:00,Mylapore,act279,Accident,Victim87
+05-03-2018 23:10,Old College Buildings,act279,Accident,Victim149
+05-03-2018 19:05,Govt Stanley Hospital,act379,Robbery,Victim19
+05-03-2018 19:10,G K M Colony,act379,Robbery,Victim108
+05-03-2018 03:30,Rajbhavan,act323,Violence,Victim148
+05-03-2018 18:45,Besantnagar,act379,Robbery,Victim81
+05-03-2018 12:10,Chepauk,act379,Robbery,Victim31
+05-03-2018 14:25,Koyambedu,act279,Accident,Victim91
+05-03-2018 15:40,Loyola College,act279,Accident,Victim130
+05-03-2018 00:45,Chennai,act323,Violence,Victim101
+05-03-2018 13:15,Teynampet West,act323,Violence,Victim42
+05-03-2018 14:00,Egmore,act279,Accident,Victim90
+05-03-2018 22:20,Jawahar Nagar,act279,Accident,Victim160
+05-03-2018 19:45,Greams Road,act379,Robbery,Victim50
+05-03-2018 14:55,Flower Bazaar,act379,Robbery,Victim166
+05-03-2018 21:40,Teynampet,act279,Accident,Victim82
+05-03-2018 22:00,Velacheri,act302,Murder,Victim196
+05-03-2018 19:10,High Court Building,act279,Accident,Victim152
+05-03-2018 21:00,D G Vaishnav College,act323,Violence,Victim133
+05-03-2018 18:15,Ethiraj Salai,act323,Violence,Victim104
+06-03-2018 11:40,World University Centre,act323,Violence,Victim143
+06-03-2018 17:30,Tiruvallikkeni,act279,Accident,Victim9
+06-03-2018 15:20,Sowcarpet,act279,Accident,Victim64
+06-03-2018 21:15,Madras Electricity System,act323,Violence,Victim160
+06-03-2018 20:45,Vivekananda College Madras,act363,Kidnapping,Victim39
+06-03-2018 13:45,Medavakkam Tank Road,act279,Accident,Victim125
+06-03-2018 15:30,Jawahar Nagar,act323,Violence,Victim44
+06-03-2018 17:25,Teynampet,act323,Violence,Victim150
+06-03-2018 18:40,Rajbhavan,act279,Accident,Victim120
+06-03-2018 14:30,Guindy Industrial Estate,act279,Accident,Victim186
+06-03-2018 20:30,Erukkancheri,act323,Violence,Victim129
+06-03-2018 01:35,Vadapalani,act323,Violence,Victim179
+06-03-2018 11:30,High Court Building,act279,Accident,Victim170
+06-03-2018 10:10,Kumaran Nagar,act323,Violence,Victim31
+07-03-2018 14:50,Madras Medical College,act279,Accident,Victim180
+07-03-2018 20:40,TTTI Taramani,act379,Robbery,Victim83
+07-03-2018 13:35,Shenoy Nagar,act363,Kidnapping,Victim135
+07-03-2018 22:55,Egmore ND,act279,Accident,Victim47
+7/3/2018 16.42 ,World University Centre,act323,Violence,Victim186
+7/3/2018 17.28,Vyasar Nagar Colony,act323,Violence,Victim100
+07-03-2018 18:05,TTTI Taramani,act379,Robbery,Victim22
+07-03-2018 14:00,Ethiraj Salai,act379,Robbery,Victim66
+07-03-2018 16:00,Engineering College,act279,Accident,Victim43
+07-03-2018 18:00,Greams Road,act323,Violence,Victim37
+07-03-2018 00:35,Koyambedu Wholesale Market Com,act323,Violence,Victim47
+07-03-2018 20:20,Vepery,act279,Accident,Victim57
+07-03-2018 13:00,Chepauk,act323,Violence,Victim132
+07-03-2018 16:15,Tidel Park,act323,Violence,Victim68
+07-03-2018 17:00,Perambur,act323,Violence,Victim114
+07-03-2018 19:05,Pudupakkam,act279,Accident,Victim88
+07-03-2018 12:50,Kalaignar Karunanidhi Nagar,act379,Robbery,Victim195
+07-03-2018 21:05,Vivekananda College Madras,act323,Violence,Victim137
+07-03-2018 12:20,Kilpauk Medical College,act279,Accident,Victim168
+07-03-2018 20:20,Tiruvallikkeni,act379,Robbery,Victim157
+07-03-2018 20:40,D G Vaishnav College,act279,Accident,Victim197
+07-03-2018 19:55,Engineering College,act363,Kidnapping,Victim7
+07-03-2018 21:20,Park Town,act323,Violence,Victim5
+07-03-2018 03:50,Rajaji Bhavan,act323,Violence,Victim45
+07-03-2018 21:10,Chetput,act323,Violence,Victim42
+07-03-2018 12:10,Raja Annamalaipuram,act279,Accident,Victim34
+07-03-2018 10:35,Mannady,act279,Accident,Victim133
+07-03-2018 23:45,Chennai,act279,Accident,Victim168
+28-02-2018 21:00,Virugambakkam,act379,Robbery,Victim134
+28-02-2018 21:15,Pudupakkam,act379,Robbery,Victim120
+28-02-2018 10:15,Madras Medical College,act279,Accident,Victim182
+28-02-2018 10:15,Jafferkhanpet,act279,Accident,Victim40
+28-02-2018 10:30,Guindy Industrial Estate,act279,Accident,Victim118
+28-02-2018 14:15,Vadapalani,act323,Violence,Victim191
+28-02-2018 08:00,Rv Nagar,act363,Kidnapping,Victim148
+28-02-2018 03:30,Thygarayanagar,act323,Violence,Victim89
+28-02-2018 01:30,West Mambalam,act379,Robbery,Victim86
+28-02-2018 19:00,West Mambalam,act323,Violence,Victim171
+28-02-2018 14:10,Edapalayam,act323,Violence,Victim36
+28-02-2018 14:25,MPT AO,act323,Violence,Victim78
+28-02-2018 22:00,Kasturibai Nagar,act13,Gambling,Victim125
+28-02-2018 22:00,Sowcarpet,act323,Violence,Victim4
+28-02-2018 22:10,Loyola College,act323,Violence,Victim171
+28-02-2018 12:00,Besantnagar,act379,Robbery,Victim148
+28-02-2018 13:30,Erukkancheri,act363,Kidnapping,Victim24
+28-02-2018 03:00,Saidapet,act323,Violence,Victim44
+28-02-2018 23:50,Shastri Bhavan,act323,Violence,Victim67
+28-02-2018 19:00,Vivekananda College Madras,act379,Robbery,Victim174
+28-02-2018 11:55,Shastri Bhavan,act279,Accident,Victim75
+28-02-2018 11:00,Madras Electricity System,act323,Violence,Victim148
+28-02-2018 18:00,Guindy Industrial Estate,act279,Accident,Victim122
+28-02-2018 01:00,Venkatesapuram,act323,Violence,Victim39
+28-02-2018 00:00,Nandanam,act379,Robbery,Victim166
+28-02-2018 22:10,Vepery,act279,Accident,Victim177
+28-02-2018 22:30,Loyola College,act13,Gambling,Victim74
+28-02-2018 08:40,Sowcarpet,act279,Accident,Victim162
+28-02-2018 15:40,Indian Institute Of Technology,act323,Violence,Victim5
+28-02-2018 15:50,Flowers Road,act323,Violence,Victim42
+28-02-2018 00:00,Madras University,act379,Robbery,Victim63
+28-02-2018 15:00,World University Centre,act323,Violence,Victim90
+28-02-2018 15:30,Perambur North,act323,Violence,Victim38
+28-02-2018 19:05,Madras University,act323,Violence,Victim131
+28-02-2018 19:25,Teynampet West,act323,Violence,Victim153
+28-02-2018 19:50,Sowcarpet,act323,Violence,Victim143
+28-02-2018 19:20,Vivekananda College Madras,act323,Violence,Victim50
+28-02-2018 13:00,Kodambakkam,act323,Violence,Victim40
+28-02-2018 16:00,Vepery,act323,Violence,Victim120
+28-02-2018 21:45,Chennai,act323,Violence,Victim124
+28-02-2018 23:00,Flowers Road,act323,Violence,Victim27
+28-02-2018 19:30,Govt Stanley Hospital,act279,Accident,Victim195
+28-02-2018 17:00,Jawahar Nagar,act13,Gambling,Victim32
+28-02-2018 19:45,Koyambedu Wholesale Market Com,act13,Gambling,Victim7
+28-02-2018 19:00,Tiruvallikkeni,act323,Violence,Victim156
+28-02-2018 20:00,Tondiarpet Bazaar,act323,Violence,Victim85
+28-02-2018 17:00,Kasturibai Nagar,act279,Accident,Victim80
+28-02-2018 20:30,Ripon Buildings,act323,Violence,Victim114
+28-02-2018 15:50,Mambalam.,act13,Gambling,Victim64
+01-03-2018 12:00,Medavakkam Tank Road,act379,Robbery,Victim116
+01-03-2018 14:30,Chepauk,act379,Robbery,Victim118
+03-01-2018 16:30,Mandaveli,act379,Robbery,Victim89
+01-03-2018 22:30,Flower Bazaar,act379,Robbery,Victim17
+01-03-2018 18:35,Vadapalani,act379,Robbery,Victim104
+01-03-2018 16:40,Ripon Buildings,act379,Robbery,Victim155
+01-03-2018 01:45,Kotturpuram,act379,Robbery,Victim49
+01-03-2018 12:00,Edapalayam,act379,Robbery,Victim184
+01-03-2018 12:20,Tondiarpet West,act279,Accident,Victim63
+01-03-2018 17:20,Madras Medical College,act279,Accident,Victim16
+01-03-2018 15:35,Madras Medical College,act279,Accident,Victim115
+01-03-2018 22:35,Kumaran Nagar,act279,Accident,Victim159
+01-03-2018 16:20,Vepery,act279,Accident,Victim59
+01-03-2018 17:30,Pudupakkam,act279,Accident,Victim181
+01-03-2018 15:25,Teynampet West,act279,Accident,Victim162
+01-03-2018 18:25,Saligramam,act323,Violence,Victim73
+01-03-2018 20:45,Sembiam,act323,Violence,Victim5
+01-03-2018 11:45,Chennai,act323,Violence,Victim53
+01-03-2018 19:50,Tondiarpet,act363,Kidnapping,Victim117
+01-03-2018 15:30,TTTI Taramani,act363,Kidnapping,Victim66
+01-03-2018 16:05,Medavakkam Tank Road,act363,Kidnapping,Victim155
+01-03-2018 15:15,Kotturpuram,act13,Gambling,Victim155
+01-03-2018 15:20,Raja Annamalaipuram,act13,Gambling,Victim178
+01-03-2018 22:20,Vivekananda College Madras,act323,Violence,Victim175
+01-03-2018 22:30,Vyasar Nagar Colony,act379,Robbery,Victim153
+01-03-2018 18:25,Kodungaiyur,act323,Violence,Victim149
+01-03-2018 08:55,Chennai,act379,Robbery,Victim195
+01-03-2018 14:20,Fort St George,act379,Robbery,Victim33
+01-03-2018 00:55,Nungambakkam,act279,Accident,Victim87
+01-03-2018 18:35,Virugambakkam,act323,Violence,Victim144
+01-03-2018 12:05,Madras Medical College,act379,Robbery,Victim137
+03-03-2018 20:10,Kalaignar Karunanidhi Nagar,act379,Robbery,Victim45
+03-03-2018 20:05,Thygarayanagar South NDS.O,act379,Robbery,Victim30
+03-03-2018 19:45,Madras University,act379,Robbery,Victim145
+03-03-2018 15:30,D G Vaishnav College,act379,Robbery,Victim53
+03-03-2018 16:00,Thygarayanagar,act379,Robbery,Victim165
+03-03-2018 13:40,Kilpauk,act279,Accident,Victim182
+03-03-2018 17:40,Govt Stanley Hospital,act279,Accident,Victim74
+03-03-2018 12:50,Indian Institute Of Technology,act279,Accident,Victim113
+03-03-2018 13:00,Flower Bazaar,act279,Accident,Victim196
+03-03-2018 23:10,Vepery,act279,Accident,Victim21
+03-03-2018 20:40,Tondiarpet,act279,Accident,Victim9
+03-03-2018 04:10,Hindi Prachar Sabha,act323,Violence,Victim200
+03-03-2018 20:05,Thygarayanagar South NDS.O,act323,Violence,Victim190
+03-03-2018 00:15,Teynampet West,act323,Violence,Victim40
+03-03-2018 22:50,Tiruvanmiyur,act323,Violence,Victim146
+03-03-2018 23:40,Ethiraj Salai,act363,Kidnapping,Victim148
+03-03-2018 14:10,Egmore,act363,Kidnapping,Victim155
+03-03-2018 22:50,Besantnagar,act279,Accident,Victim25
+03-03-2018 03:15,Sowcarpet,act279,Accident,Victim85
+03-03-2018 16:10,Rajbhavan,act279,Accident,Victim30
+03-03-2018 17:50,Saligramam,act279,Accident,Victim163
+03-03-2018 21:20,Govt Stanley Hospital,act323,Violence,Victim176
+03-03-2018 11:20,Medavakkam Tank Road,act279,Accident,Victim41
+03-03-2018 14:00,Lloyds Estate,act323,Violence,Victim168
+04-03-2018 09:00,Rv Nagar,act323,Violence,Victim174
+04-03-2018 19:05,Hindi Prachar Sabha,act279,Accident,Victim33
+04-03-2018 14:30,Royapettah,act279,Accident,Victim26
+04-03-2018 23:05,Shastri Nagar,act323,Violence,Victim97
+04-03-2018 22:00,Kasturibai Nagar,act323,Violence,Victim162
+04-03-2018 18:30,Tidel Park,act323,Violence,Victim51
+04-03-2018 22:00,Kumaran Nagar,act323,Violence,Victim48
+04-03-2018 13:40,Thygarayanagar North ND,act279,Accident,Victim189
+04-03-2018 18:00,Lloyds Estate,act379,Robbery,Victim32
+04-03-2018 13:30,Kalaignar Karunanidhi Nagar,act323,Violence,Victim42
+04-03-2018 21:30,Egmore,act279,Accident,Victim73
+04-03-2018 22:00,Mint Building,act323,Violence,Victim163
+04-03-2018 08:00,Triplicane South,act279,Accident,Victim200
+04-03-2018 20:00,Indian Institute Of Technology,act323,Violence,Victim184
+04-03-2018 08:30,High Court Building,act323,Violence,Victim141
+04-03-2018 17:00,Mambalam.,act302,Murder,Victim122
+04-03-2018 21:00,Royapettah,act279,Accident,Victim170
+05-03-2018 06:15,Vepery,act279,Accident,Victim131
+05-03-2018 23:00,Ripon Buildings,act323,Violence,Victim166
+05-03-2018 07:30,Ramakrishna Nagar,act279,Accident,Victim22
+05-03-2018 19:30,Koyambedu,act13,Gambling,Victim107
+05-03-2018 20:00,Chennai,act279,Accident,Victim69
+05-03-2018 13:30,Teynampet,act323,Violence,Victim116
+05-03-2018 10:00,MPT AO,act279,Accident,Victim155
+05-03-2018 14:00,Perambur North,act279,Accident,Victim54
+05-03-2018 23:10,D G Vaishnav College,act279,Accident,Victim147
+05-03-2018 19:05,Koyambedu,act379,Robbery,Victim28
+05-03-2018 19:10,Madras University,act379,Robbery,Victim14
+05-03-2018 03:30,Chetput,act323,Violence,Victim148
+05-03-2018 18:45,Madras Medical College,act379,Robbery,Victim159
+05-03-2018 12:10,Ramakrishna Nagar,act379,Robbery,Victim156
+05-03-2018 14:25,Madras Electricity System,act279,Accident,Victim82
+05-03-2018 15:40,Chetput,act279,Accident,Victim197
+05-03-2018 00:45,Koyambedu,act323,Violence,Victim147
+05-03-2018 13:15,Teynampet West,act323,Violence,Victim44
+05-03-2018 14:00,Kilpauk Medical College,act279,Accident,Victim87
+05-03-2018 22:20,Mint Building,act279,Accident,Victim121
+05-03-2018 19:45,Raja Annamalaipuram,act379,Robbery,Victim1
+05-03-2018 14:55,Rv Nagar,act379,Robbery,Victim121
+05-03-2018 21:40,Sowcarpet,act279,Accident,Victim110
+05-03-2018 22:00,Egmore,act302,Murder,Victim157
+05-03-2018 19:10,Chennai,act279,Accident,Victim126
+05-03-2018 21:00,Park Town,act323,Violence,Victim69
+05-03-2018 18:15,Vyasarpadi,act323,Violence,Victim146
+06-03-2018 11:40,Sembiam,act323,Violence,Victim6
+06-03-2018 17:30,Pr. Accountant General,act279,Accident,Victim64
+06-03-2018 15:20,Perambur Barracks,act279,Accident,Victim60
+06-03-2018 21:15,Vadapalani,act323,Violence,Victim180
+06-03-2018 20:45,Shastri Bhavan,act363,Kidnapping,Victim148
+06-03-2018 13:45,Jafferkhanpet,act279,Accident,Victim84
+06-03-2018 15:30,Venkatesapuram,act323,Violence,Victim1
+06-03-2018 17:25,Kumaran Nagar,act323,Violence,Victim2
+06-03-2018 18:40,Koyambedu Wholesale Market Com,act279,Accident,Victim86
+06-03-2018 14:30,Flowers Road,act279,Accident,Victim119
+06-03-2018 20:30,Madras Medical College,act323,Violence,Victim144
+06-03-2018 01:35,Tidel Park,act323,Violence,Victim200
+06-03-2018 11:30,Egmore ND,act279,Accident,Victim72
+06-03-2018 10:10,West Mambalam,act323,Violence,Victim121
+07-03-2018 14:50,West Mambalam,act279,Accident,Victim42
+07-03-2018 20:40,Nungambakkam High Road,act379,Robbery,Victim51
+07-03-2018 13:35,Hindi Prachar Sabha,act363,Kidnapping,Victim194
+07-03-2018 22:55,Mylapore,act279,Accident,Victim99
+7/3/2018 16.42 ,Thygarayanagar North ND,act323,Violence,Victim147
+7/3/2018 17.28,Medavakkam Tank Road,act323,Violence,Victim64
+07-03-2018 18:05,Perambur Barracks,act379,Robbery,Victim134
+07-03-2018 14:00,Flower Bazaar,act379,Robbery,Victim100
+07-03-2018 16:00,Nandanam,act279,Accident,Victim21
+07-03-2018 18:00,Ekkaduthangal,act323,Violence,Victim125
+07-03-2018 00:35,Shenoy Nagar,act323,Violence,Victim36
+07-03-2018 20:20,Rayapuram,act279,Accident,Victim176
+07-03-2018 13:00,Vyasar Nagar Colony,act323,Violence,Victim164
+07-03-2018 16:15,Perambur North,act323,Violence,Victim65
+07-03-2018 17:00,Saidapet,act323,Violence,Victim178
+07-03-2018 19:05,Jawahar Nagar,act279,Accident,Victim144
+07-03-2018 12:50,Shenoy Nagar,act379,Robbery,Victim129
+07-03-2018 21:05,Lloyds Estate,act323,Violence,Victim36
+07-03-2018 12:20,Velacheri,act279,Accident,Victim22
+07-03-2018 20:20,Kilpauk Medical College,act379,Robbery,Victim90
+07-03-2018 20:40,Tondiarpet Bazaar,act279,Accident,Victim132
+07-03-2018 19:55,Saidapet,act363,Kidnapping,Victim119
+07-03-2018 21:20,Rajbhavan,act323,Violence,Victim174
+07-03-2018 03:50,Gopalapuram,act323,Violence,Victim1
+07-03-2018 21:10,Tidel Park,act323,Violence,Victim41
+07-03-2018 12:10,Sembiam,act279,Accident,Victim172
+07-03-2018 10:35,Loyola College,act279,Accident,Victim7
+07-03-2018 23:45,Tidel Park,act279,Accident,Victim114
+28-02-2018 21:00,Chetput,act379,Robbery,Victim168
+28-02-2018 21:15,Perambur Barracks,act379,Robbery,Victim156
+28-02-2018 10:15,Nandanam,act279,Accident,Victim35
+28-02-2018 10:15,Vivekananda College Madras,act279,Accident,Victim18
+28-02-2018 10:30,Indian Institute Of Technology,act279,Accident,Victim52
+28-02-2018 14:15,Kilpauk,act323,Violence,Victim24
+28-02-2018 08:00,TTTI Taramani,act363,Kidnapping,Victim168
+28-02-2018 03:30,Tiruvanmiyur,act323,Violence,Victim81
+28-02-2018 01:30,Sembiam,act379,Robbery,Victim140
+28-02-2018 19:00,Royapettah,act323,Violence,Victim23
+28-02-2018 14:10,Koyambedu Wholesale Market Com,act323,Violence,Victim174
+28-02-2018 14:25,Jawahar Nagar,act323,Violence,Victim28
+28-02-2018 22:00,Perambur North,act13,Gambling,Victim121
+28-02-2018 22:00,Saidapet,act323,Violence,Victim143
+28-02-2018 22:10,Puliyanthope,act323,Violence,Victim75
+28-02-2018 12:00,Tondiarpet Bazaar,act379,Robbery,Victim151
+28-02-2018 13:30,Old College Buildings,act363,Kidnapping,Victim131
+28-02-2018 03:00,Loyola College,act323,Violence,Victim196
+28-02-2018 23:50,Medavakkam Tank Road,act323,Violence,Victim138
+28-02-2018 19:00,Rajaji Bhavan,act379,Robbery,Victim80
+28-02-2018 11:55,Rayapuram,act279,Accident,Victim49
+28-02-2018 11:00,Tondiarpet West,act323,Violence,Victim3
+28-02-2018 18:00,Tidel Park,act279,Accident,Victim80
+28-02-2018 01:00,Rv Nagar,act323,Violence,Victim121
+28-02-2018 00:00,Edapalayam,act379,Robbery,Victim121
+28-02-2018 22:10,Vivekananda College Madras,act279,Accident,Victim48
+28-02-2018 22:30,Mylapore,act13,Gambling,Victim171
+28-02-2018 08:40,Kilpauk Medical College,act279,Accident,Victim118
+28-02-2018 15:40,Washermanpet,act323,Violence,Victim104
+28-02-2018 15:50,Puliyanthope,act323,Violence,Victim159
+28-02-2018 00:00,Jawahar Nagar,act379,Robbery,Victim198
+28-02-2018 15:00,Mannady,act323,Violence,Victim157
+28-02-2018 15:30,Vepery,act323,Violence,Victim92
+28-02-2018 19:05,Tondiarpet,act323,Violence,Victim188
+28-02-2018 19:25,Rajbhavan,act323,Violence,Victim110
+28-02-2018 19:50,Lloyds Estate,act323,Violence,Victim49
+28-02-2018 19:20,Valmiki Nagar,act323,Violence,Victim174
+28-02-2018 13:00,Tidel Park,act323,Violence,Victim102
+28-02-2018 16:00,Koyambedu,act323,Violence,Victim127
+28-02-2018 21:45,Indian Institute Of Technology,act323,Violence,Victim99
+28-02-2018 23:00,Washermanpet,act323,Violence,Victim32
+28-02-2018 19:30,Chintadripet,act279,Accident,Victim133
+28-02-2018 17:00,Tiruvanmiyur,act13,Gambling,Victim184
+28-02-2018 19:45,Madras Medical College,act13,Gambling,Victim39
+28-02-2018 19:00,Egmore ND,act323,Violence,Victim91
+28-02-2018 20:00,Saligramam,act323,Violence,Victim168
+28-02-2018 17:00,Ekkaduthangal,act279,Accident,Victim26
+28-02-2018 20:30,Rv Nagar,act323,Violence,Victim66
+28-02-2018 15:50,Koyambedu Wholesale Market Com,act13,Gambling,Victim54
+01-03-2018 12:00,Flowers Road,act379,Robbery,Victim184
+01-03-2018 14:30,Virugambakkam,act379,Robbery,Victim93
+03-01-2018 16:30,Saidapet,act379,Robbery,Victim156
+01-03-2018 22:30,Shastri Bhavan,act379,Robbery,Victim84
+01-03-2018 18:35,Chepauk,act379,Robbery,Victim4
+01-03-2018 16:40,Rayapuram,act379,Robbery,Victim171
+01-03-2018 01:45,Choolaimedu,act379,Robbery,Victim192
+01-03-2018 12:00,Lloyds Estate,act379,Robbery,Victim12
+01-03-2018 12:20,Ramakrishna Nagar,act279,Accident,Victim196
+01-03-2018 17:20,Kodungaiyur,act279,Accident,Victim33
+01-03-2018 15:35,Guindy Industrial Estate,act279,Accident,Victim156
+01-03-2018 22:35,Koyambedu Wholesale Market Com,act279,Accident,Victim194
+01-03-2018 16:20,Virugambakkam,act279,Accident,Victim126
+01-03-2018 17:30,Kilpauk,act279,Accident,Victim150
+01-03-2018 15:25,Madras University,act279,Accident,Victim176
+01-03-2018 18:25,Ekkaduthangal,act323,Violence,Victim93
+01-03-2018 20:45,Vyasar Nagar Colony,act323,Violence,Victim167
+01-03-2018 11:45,Puliyanthope,act323,Violence,Victim102
+01-03-2018 19:50,Pr. Accountant General,act363,Kidnapping,Victim52
+01-03-2018 15:30,Mannady,act363,Kidnapping,Victim61
+01-03-2018 16:05,Ramakrishna Nagar,act363,Kidnapping,Victim76
+01-03-2018 15:15,Ramakrishna Nagar,act13,Gambling,Victim161
+01-03-2018 15:20,Pudupakkam,act13,Gambling,Victim175
+01-03-2018 22:20,Mylapore,act323,Violence,Victim171
+01-03-2018 22:30,Greams Road,act379,Robbery,Victim194
+01-03-2018 18:25,Velacheri,act323,Violence,Victim12
+01-03-2018 08:55,Saidapet,act379,Robbery,Victim145
+01-03-2018 14:20,Madras Electricity System,act379,Robbery,Victim180
+01-03-2018 00:55,Old College Buildings,act279,Accident,Victim162
+01-03-2018 18:35,Koyambedu,act323,Violence,Victim178
+01-03-2018 12:05,Rayapuram,act379,Robbery,Victim69
+03-03-2018 20:10,Tiruvanmiyur,act379,Robbery,Victim153
+03-03-2018 20:05,Erukkancheri,act379,Robbery,Victim48
+03-03-2018 19:45,Greams Road,act379,Robbery,Victim2
+03-03-2018 15:30,Old College Buildings,act379,Robbery,Victim140
+03-03-2018 16:00,Madras University,act379,Robbery,Victim124
+03-03-2018 13:40,Guindy Industrial Estate,act279,Accident,Victim16
+03-03-2018 17:40,Perambur North,act279,Accident,Victim84
+03-03-2018 12:50,Madras Medical College,act279,Accident,Victim161
+03-03-2018 13:00,Rayapuram,act279,Accident,Victim23
+03-03-2018 23:10,Kasturibai Nagar,act279,Accident,Victim40
+03-03-2018 20:40,Teynampet,act279,Accident,Victim47
+03-03-2018 04:10,Chetput,act323,Violence,Victim180
+03-03-2018 20:05,Mannady,act323,Violence,Victim166
+03-03-2018 00:15,Shastri Nagar,act323,Violence,Victim187
+03-03-2018 22:50,Fort St George,act323,Violence,Victim12
+03-03-2018 23:40,D G Vaishnav College,act363,Kidnapping,Victim85
+03-03-2018 14:10,Engineering College,act363,Kidnapping,Victim168
+03-03-2018 22:50,Mandaveli,act279,Accident,Victim87
+03-03-2018 03:15,Madras University,act279,Accident,Victim53
+03-03-2018 16:10,Kilpauk Medical College,act279,Accident,Victim28
+03-03-2018 17:50,Mandaveli,act279,Accident,Victim66
+03-03-2018 21:20,Kumaran Nagar,act323,Violence,Victim32
+03-03-2018 11:20,Tondiarpet West,act279,Accident,Victim185
+03-03-2018 14:00,Jawahar Nagar,act323,Violence,Victim95
+04-03-2018 09:00,Tiruvallikkeni,act323,Violence,Victim111
+04-03-2018 19:05,Tondiarpet Bazaar,act279,Accident,Victim90
+04-03-2018 14:30,Shastri Bhavan,act279,Accident,Victim107
+04-03-2018 23:05,Loyola College,act323,Violence,Victim43
+04-03-2018 22:00,Koyambedu,act323,Violence,Victim7
+04-03-2018 18:30,Saligramam,act323,Violence,Victim29
+04-03-2018 22:00,Saidapet,act323,Violence,Victim158
+04-03-2018 13:40,Kilpauk Medical College,act279,Accident,Victim189
+04-03-2018 18:00,Madras University,act379,Robbery,Victim125
+04-03-2018 13:30,MPT AO,act323,Violence,Victim194
+04-03-2018 21:30,Tiruvanmiyur,act279,Accident,Victim102
+04-03-2018 22:00,Washermanpet East,act323,Violence,Victim139
+04-03-2018 08:00,Pr. Accountant General,act279,Accident,Victim170
+04-03-2018 20:00,Koyambedu,act323,Violence,Victim176
+04-03-2018 08:30,TTTI Taramani,act323,Violence,Victim171
+04-03-2018 17:00,Kodambakkam,act302,Murder,Victim74
+04-03-2018 21:00,Pudupakkam,act279,Accident,Victim16
+05-03-2018 06:15,Sembiam,act279,Accident,Victim24
+05-03-2018 23:00,Perambur Barracks,act323,Violence,Victim21
+05-03-2018 07:30,Madras Medical College,act279,Accident,Victim143
+05-03-2018 19:30,Tondiarpet,act13,Gambling,Victim20
+05-03-2018 20:00,Vepery,act279,Accident,Victim154
+05-03-2018 13:30,Tidel Park,act323,Violence,Victim55
+05-03-2018 10:00,Tondiarpet West,act279,Accident,Victim102
+05-03-2018 14:00,Egmore,act279,Accident,Victim100
+05-03-2018 23:10,G K M Colony,act279,Accident,Victim167
+05-03-2018 19:05,Guindy North,act379,Robbery,Victim41
+05-03-2018 19:10,Shastri Bhavan,act379,Robbery,Victim34
+05-03-2018 03:30,Lloyds Estate,act323,Violence,Victim44
+05-03-2018 18:45,Icf Colony,act379,Robbery,Victim153
+05-03-2018 12:10,Madras University,act379,Robbery,Victim26
+05-03-2018 14:25,Old College Buildings,act279,Accident,Victim50
+05-03-2018 15:40,Shenoy Nagar,act279,Accident,Victim8
+05-03-2018 00:45,Old College Buildings,act323,Violence,Victim53
+05-03-2018 13:15,Washermanpet East,act323,Violence,Victim158
+05-03-2018 14:00,Teynampet,act279,Accident,Victim133
+05-03-2018 22:20,Nungambakkam,act279,Accident,Victim144
+05-03-2018 19:45,D G Vaishnav College,act379,Robbery,Victim85
+05-03-2018 14:55,Kalaignar Karunanidhi Nagar,act379,Robbery,Victim109
+05-03-2018 21:40,Vivekananda College Madras,act279,Accident,Victim70
+05-03-2018 22:00,Park Town,act302,Murder,Victim36
+05-03-2018 19:10,Velacheri,act279,Accident,Victim174
+05-03-2018 21:00,Royapettah,act323,Violence,Victim105
+05-03-2018 18:15,Kasturibai Nagar,act323,Violence,Victim35
+06-03-2018 11:40,Tiruvanmiyur,act323,Violence,Victim57
+06-03-2018 17:30,Kodungaiyur,act279,Accident,Victim114
+06-03-2018 15:20,Teynampet,act279,Accident,Victim135
+06-03-2018 21:15,Chennai,act323,Violence,Victim200
+06-03-2018 20:45,Gopalapuram,act363,Kidnapping,Victim4
+06-03-2018 13:45,Thygarayanagar,act279,Accident,Victim181
+06-03-2018 15:30,Shastri Bhavan,act323,Violence,Victim147
+06-03-2018 17:25,Kilpauk Medical College,act323,Violence,Victim129
+06-03-2018 18:40,High Court Building,act279,Accident,Victim188
+06-03-2018 14:30,Kumaran Nagar,act279,Accident,Victim58
+06-03-2018 20:30,Pudupakkam,act323,Violence,Victim150
+06-03-2018 01:35,Icf Colony,act323,Violence,Victim47
+06-03-2018 11:30,Fort St George,act279,Accident,Victim54
+06-03-2018 10:10,Rajbhavan,act323,Violence,Victim185
+07-03-2018 14:50,G K M Colony,act279,Accident,Victim70
+07-03-2018 20:40,Greams Road,act379,Robbery,Victim172
+07-03-2018 13:35,Vivekananda College Madras,act363,Kidnapping,Victim118
+07-03-2018 22:55,Kumaran Nagar,act279,Accident,Victim132
+7/3/2018 16.42 ,Rv Nagar,act323,Violence,Victim184
+7/3/2018 17.28,Madras University,act323,Violence,Victim97
+07-03-2018 18:05,Nungambakkam High Road,act379,Robbery,Victim58
+07-03-2018 14:00,Kasturibai Nagar,act379,Robbery,Victim195
+07-03-2018 16:00,Nungambakkam,act279,Accident,Victim170
+07-03-2018 18:00,Kalaignar Karunanidhi Nagar,act323,Violence,Victim173
+07-03-2018 00:35,Loyola College,act323,Violence,Victim182
+07-03-2018 20:20,Kodungaiyur,act279,Accident,Victim168
+07-03-2018 13:00,Guindy Industrial Estate,act323,Violence,Victim11
+07-03-2018 16:15,World University Centre,act323,Violence,Victim112
+07-03-2018 17:00,Besantnagar,act323,Violence,Victim135
+07-03-2018 19:05,Perambur North,act279,Accident,Victim106
+07-03-2018 12:50,Nungambakkam,act379,Robbery,Victim3
+07-03-2018 21:05,Kilpauk Medical College,act323,Violence,Victim70
+07-03-2018 12:20,Chetput,act279,Accident,Victim40
+07-03-2018 20:20,Greams Road,act379,Robbery,Victim41
+07-03-2018 20:40,Mannady,act279,Accident,Victim104
+07-03-2018 19:55,Sembiam,act363,Kidnapping,Victim182
+07-03-2018 21:20,G K M Colony,act323,Violence,Victim172
+07-03-2018 03:50,West Mambalam,act323,Violence,Victim182
+07-03-2018 21:10,Koyambedu,act323,Violence,Victim18
+07-03-2018 12:10,Valmiki Nagar,act279,Accident,Victim22
+07-03-2018 10:35,Kilpauk,act279,Accident,Victim163
+07-03-2018 23:45,Vepery,act279,Accident,Victim67
+28-02-2018 21:00,Kilpauk Medical College,act379,Robbery,Victim185
+28-02-2018 21:15,Vivekananda College Madras,act379,Robbery,Victim139
+28-02-2018 10:15,Vyasarpadi,act279,Accident,Victim151
+28-02-2018 10:15,Kasturibai Nagar,act279,Accident,Victim75
+28-02-2018 10:30,Rv Nagar,act279,Accident,Victim34
+28-02-2018 14:15,G K M Colony,act323,Violence,Victim54
+28-02-2018 08:00,Shastri Bhavan,act363,Kidnapping,Victim90
+28-02-2018 03:30,Erukkancheri,act323,Violence,Victim176
+28-02-2018 01:30,Triplicane South,act379,Robbery,Victim15
+28-02-2018 19:00,Triplicane South,act323,Violence,Victim14
+28-02-2018 14:10,Choolaimedu,act323,Violence,Victim58
+28-02-2018 14:25,Kumaran Nagar,act323,Violence,Victim79
+28-02-2018 22:00,Perambur,act13,Gambling,Victim172
+28-02-2018 22:00,Guindy Industrial Estate,act323,Violence,Victim100
+28-02-2018 22:10,Sowcarpet,act323,Violence,Victim188
+28-02-2018 12:00,Kumaran Nagar,act379,Robbery,Victim53
+28-02-2018 13:30,Teynampet,act363,Kidnapping,Victim44
+28-02-2018 03:00,Royapettah,act323,Violence,Victim52
+28-02-2018 23:50,Sembiam,act323,Violence,Victim89
+28-02-2018 19:00,Icf Colony,act379,Robbery,Victim112
+28-02-2018 11:55,Raja Annamalaipuram,act279,Accident,Victim77
+28-02-2018 11:00,TTTI Taramani,act323,Violence,Victim153
+28-02-2018 18:00,Tondiarpet Bazaar,act279,Accident,Victim68
+28-02-2018 01:00,Sowcarpet,act323,Violence,Victim4
+28-02-2018 00:00,TTTI Taramani,act379,Robbery,Victim138
+28-02-2018 22:10,Perambur,act279,Accident,Victim31
+28-02-2018 22:30,Washermanpet East,act13,Gambling,Victim190
+28-02-2018 08:40,Besantnagar,act279,Accident,Victim174
+28-02-2018 15:40,Tondiarpet West,act323,Violence,Victim157
+28-02-2018 15:50,Ramakrishna Nagar,act323,Violence,Victim156
+28-02-2018 00:00,Jawahar Nagar,act379,Robbery,Victim111
+28-02-2018 15:00,Ethiraj Salai,act323,Violence,Victim73
+28-02-2018 15:30,Perambur,act323,Violence,Victim98
+28-02-2018 19:05,Flowers Road,act323,Violence,Victim5
+28-02-2018 19:25,Chetput,act323,Violence,Victim155
+28-02-2018 19:50,Kasturibai Nagar,act323,Violence,Victim35
+28-02-2018 19:20,TTTI Taramani,act323,Violence,Victim177
+28-02-2018 13:00,Virugambakkam,act323,Violence,Victim64
+28-02-2018 16:00,Rajaji Bhavan,act323,Violence,Victim99
+28-02-2018 21:45,Mannady,act323,Violence,Victim156
+28-02-2018 23:00,Teynampet,act323,Violence,Victim34
+28-02-2018 19:30,Pr. Accountant General,act279,Accident,Victim102
+28-02-2018 17:00,Thygarayanagar South NDS.O,act13,Gambling,Victim94
+28-02-2018 19:45,Royapettah,act13,Gambling,Victim51
+28-02-2018 19:00,Perambur,act323,Violence,Victim199
+28-02-2018 20:00,Chennai,act323,Violence,Victim191
+28-02-2018 17:00,Tondiarpet,act279,Accident,Victim149
+28-02-2018 20:30,Madras University,act323,Violence,Victim61
+28-02-2018 15:50,Pr. Accountant General,act13,Gambling,Victim3
+01-03-2018 12:00,Shastri Nagar,act379,Robbery,Victim149
+01-03-2018 14:30,Teynampet,act379,Robbery,Victim198
+03-01-2018 16:30,Puliyanthope,act379,Robbery,Victim96
+01-03-2018 22:30,Indian Institute Of Technology,act379,Robbery,Victim132
+01-03-2018 18:35,Egmore ND,act379,Robbery,Victim46
+01-03-2018 16:40,Mannady,act379,Robbery,Victim72
+01-03-2018 01:45,Venkatesapuram,act379,Robbery,Victim184
+01-03-2018 12:00,Valmiki Nagar,act379,Robbery,Victim172
+01-03-2018 12:20,Erukkancheri,act279,Accident,Victim76
+01-03-2018 17:20,Mannady,act279,Accident,Victim69
+01-03-2018 15:35,Valmiki Nagar,act279,Accident,Victim62
+01-03-2018 22:35,Virugambakkam,act279,Accident,Victim9
+01-03-2018 16:20,Triplicane South,act279,Accident,Victim100
+01-03-2018 17:30,Chintadripet,act279,Accident,Victim8
+01-03-2018 15:25,TTTI Taramani,act279,Accident,Victim165
+01-03-2018 18:25,Fort St George,act323,Violence,Victim106
+01-03-2018 20:45,Madras Medical College,act323,Violence,Victim17
+01-03-2018 11:45,Egmore,act323,Violence,Victim97
+01-03-2018 19:50,Tondiarpet,act363,Kidnapping,Victim82
+01-03-2018 15:30,Engineering College,act363,Kidnapping,Victim19
+01-03-2018 16:05,Sowcarpet,act363,Kidnapping,Victim126
+01-03-2018 15:15,Saidapet,act13,Gambling,Victim10
+01-03-2018 15:20,Flower Bazaar,act13,Gambling,Victim162
+01-03-2018 22:20,Pudupakkam,act323,Violence,Victim73
+01-03-2018 22:30,Ramakrishna Nagar,act379,Robbery,Victim180
+01-03-2018 18:25,Vepery,act323,Violence,Victim43
+01-03-2018 08:55,Nungambakkam,act379,Robbery,Victim98
+01-03-2018 14:20,D G Vaishnav College,act379,Robbery,Victim176
+01-03-2018 00:55,Perambur Barracks,act279,Accident,Victim5
+01-03-2018 18:35,Kilpauk Medical College,act323,Violence,Victim86
+01-03-2018 12:05,Loyola College,act379,Robbery,Victim144
+03-03-2018 20:10,G K M Colony,act379,Robbery,Victim120
+03-03-2018 20:05,Jawahar Nagar,act379,Robbery,Victim107
+03-03-2018 19:45,Mandaveli,act379,Robbery,Victim6
+03-03-2018 15:30,World University Centre,act379,Robbery,Victim60
+03-03-2018 16:00,Koyambedu,act379,Robbery,Victim121
+03-03-2018 13:40,Venkatesapuram,act279,Accident,Victim168
+03-03-2018 17:40,Chennai,act279,Accident,Victim60
+03-03-2018 12:50,Thygarayanagar,act279,Accident,Victim91
+03-03-2018 13:00,Besantnagar,act279,Accident,Victim2
+03-03-2018 23:10,Park Town,act279,Accident,Victim6
+03-03-2018 20:40,Kotturpuram,act279,Accident,Victim147
+03-03-2018 04:10,Pudupakkam,act323,Violence,Victim144
+03-03-2018 20:05,Pudupakkam,act323,Violence,Victim45
+03-03-2018 00:15,Rajaji Bhavan,act323,Violence,Victim131
+03-03-2018 22:50,Kodungaiyur,act323,Violence,Victim162
+03-03-2018 23:40,Loyola College,act363,Kidnapping,Victim18
+03-03-2018 14:10,Perambur,act363,Kidnapping,Victim132
+03-03-2018 22:50,Lloyds Estate,act279,Accident,Victim171
+03-03-2018 03:15,Kalaignar Karunanidhi Nagar,act279,Accident,Victim156
+03-03-2018 16:10,Tiruvallikkeni,act279,Accident,Victim47
+03-03-2018 17:50,Govt Stanley Hospital,act279,Accident,Victim185
+03-03-2018 21:20,Kasturibai Nagar,act323,Violence,Victim2
+03-03-2018 11:20,Teynampet,act279,Accident,Victim167
+03-03-2018 14:00,Madras University,act323,Violence,Victim183
+04-03-2018 09:00,Shastri Bhavan,act323,Violence,Victim18
+04-03-2018 19:05,Chetput,act279,Accident,Victim31
+04-03-2018 14:30,Jafferkhanpet,act279,Accident,Victim100
+04-03-2018 23:05,Venkatesapuram,act323,Violence,Victim123
+04-03-2018 22:00,Tondiarpet West,act323,Violence,Victim7
+04-03-2018 18:30,Medavakkam Tank Road,act323,Violence,Victim13
+04-03-2018 22:00,Rajbhavan,act323,Violence,Victim143
+04-03-2018 13:40,Mylapore,act279,Accident,Victim72
+04-03-2018 18:00,Hindi Prachar Sabha,act379,Robbery,Victim97
+04-03-2018 13:30,Mint Building,act323,Violence,Victim31
+04-03-2018 21:30,Mambalam.,act279,Accident,Victim39
+04-03-2018 22:00,Tondiarpet West,act323,Violence,Victim165
+04-03-2018 08:00,Perambur,act279,Accident,Victim144
+04-03-2018 20:00,Nungambakkam High Road,act323,Violence,Victim150
+04-03-2018 08:30,High Court Building,act323,Violence,Victim176
+04-03-2018 17:00,Virugambakkam,act302,Murder,Victim189
+04-03-2018 21:00,Kotturpuram,act279,Accident,Victim173
+05-03-2018 06:15,Mandaveli,act279,Accident,Victim67
+05-03-2018 23:00,Koyambedu,act323,Violence,Victim173
+05-03-2018 07:30,Sembiam,act279,Accident,Victim195
+05-03-2018 19:30,Jafferkhanpet,act13,Gambling,Victim152
+05-03-2018 20:00,Kodambakkam,act279,Accident,Victim170
+05-03-2018 13:30,Washermanpet,act323,Violence,Victim49
+05-03-2018 10:00,Royapettah,act279,Accident,Victim145
+05-03-2018 14:00,Vepery,act279,Accident,Victim42
+05-03-2018 23:10,Chepauk,act279,Accident,Victim108
+05-03-2018 19:05,Thygarayanagar,act379,Robbery,Victim133
+05-03-2018 19:10,TTTI Taramani,act379,Robbery,Victim64
+05-03-2018 03:30,Govt Stanley Hospital,act323,Violence,Victim113
+05-03-2018 18:45,Govt Stanley Hospital,act379,Robbery,Victim169
+05-03-2018 12:10,Besantnagar,act379,Robbery,Victim12
+05-03-2018 14:25,Fort St George,act279,Accident,Victim124
+05-03-2018 15:40,Tidel Park,act279,Accident,Victim159
+05-03-2018 00:45,Rv Nagar,act323,Violence,Victim17
+05-03-2018 13:15,Nandanam,act323,Violence,Victim121
+05-03-2018 14:00,Washermanpet East,act279,Accident,Victim66
+05-03-2018 22:20,Old College Buildings,act279,Accident,Victim184
+05-03-2018 19:45,High Court Building,act379,Robbery,Victim163
+05-03-2018 14:55,Virugambakkam,act379,Robbery,Victim96
+05-03-2018 21:40,Mint Building,act279,Accident,Victim144
+05-03-2018 22:00,Mylapore,act302,Murder,Victim194
+05-03-2018 19:10,Kasturibai Nagar,act279,Accident,Victim118
+05-03-2018 21:00,Kalaignar Karunanidhi Nagar,act323,Violence,Victim15
+05-03-2018 18:15,Old College Buildings,act323,Violence,Victim181
+06-03-2018 11:40,Teynampet West,act323,Violence,Victim162
+06-03-2018 17:30,Valmiki Nagar,act279,Accident,Victim32
+06-03-2018 15:20,Koyambedu,act279,Accident,Victim29
+06-03-2018 21:15,Shastri Nagar,act323,Violence,Victim127
+06-03-2018 20:45,Vyasarpadi,act363,Kidnapping,Victim82
+06-03-2018 13:45,World University Centre,act279,Accident,Victim49
+06-03-2018 15:30,Sembiam,act323,Violence,Victim170
+06-03-2018 17:25,Ripon Buildings,act323,Violence,Victim155
+06-03-2018 18:40,Vyasarpadi,act279,Accident,Victim122
+06-03-2018 14:30,Washermanpet East,act279,Accident,Victim194
+06-03-2018 20:30,Hindi Prachar Sabha,act323,Violence,Victim122
+06-03-2018 01:35,Tiruvallikkeni,act323,Violence,Victim136
+06-03-2018 11:30,D G Vaishnav College,act279,Accident,Victim138
+06-03-2018 10:10,Thygarayanagar South NDS.O,act323,Violence,Victim114
+07-03-2018 14:50,Mannady,act279,Accident,Victim70
+07-03-2018 20:40,Kalaignar Karunanidhi Nagar,act379,Robbery,Victim178
+07-03-2018 13:35,Kotturpuram,act363,Kidnapping,Victim157
+07-03-2018 22:55,Guindy Industrial Estate,act279,Accident,Victim63
+7/3/2018 16.42 ,Kodungaiyur,act323,Violence,Victim198
+7/3/2018 17.28,Teynampet,act323,Violence,Victim82
+07-03-2018 18:05,Kilpauk Medical College,act379,Robbery,Victim56
+07-03-2018 14:00,Chintadripet,act379,Robbery,Victim39
+07-03-2018 16:00,Kodungaiyur,act279,Accident,Victim117
+07-03-2018 18:00,Nandanam,act323,Violence,Victim184
+07-03-2018 00:35,Guindy Industrial Estate,act323,Violence,Victim71
+07-03-2018 20:20,High Court Building,act279,Accident,Victim158
+07-03-2018 13:00,Govt Stanley Hospital,act323,Violence,Victim164
+07-03-2018 16:15,MPT AO,act323,Violence,Victim18
+07-03-2018 17:00,Virugambakkam,act323,Violence,Victim63
+07-03-2018 19:05,D G Vaishnav College,act279,Accident,Victim20
+07-03-2018 12:50,Jafferkhanpet,act379,Robbery,Victim104
+07-03-2018 21:05,Jafferkhanpet,act323,Violence,Victim72
+07-03-2018 12:20,High Court Building,act279,Accident,Victim20
+07-03-2018 20:20,Washermanpet,act379,Robbery,Victim111
+07-03-2018 20:40,Kasturibai Nagar,act279,Accident,Victim193
+07-03-2018 19:55,Raja Annamalaipuram,act363,Kidnapping,Victim85
+07-03-2018 21:20,Mint Building,act323,Violence,Victim177
+07-03-2018 03:50,Old College Buildings,act323,Violence,Victim102
+07-03-2018 21:10,Chintadripet,act323,Violence,Victim75
+07-03-2018 12:10,Indian Institute Of Technology,act279,Accident,Victim101
+07-03-2018 10:35,Chennai,act279,Accident,Victim172
+07-03-2018 23:45,Kodambakkam,act279,Accident,Victim124
+28-02-2018 21:00,Koyambedu,act379,Robbery,Victim12
+28-02-2018 21:15,Velacheri,act379,Robbery,Victim156
+28-02-2018 10:15,Guindy Industrial Estate,act279,Accident,Victim120
+28-02-2018 10:15,Gopalapuram,act279,Accident,Victim76
+28-02-2018 10:30,Ripon Buildings,act279,Accident,Victim146
+28-02-2018 14:15,Edapalayam,act323,Violence,Victim69
+28-02-2018 08:00,Tondiarpet Bazaar,act363,Kidnapping,Victim48
+28-02-2018 03:30,Saligramam,act323,Violence,Victim87
+28-02-2018 01:30,Chepauk,act379,Robbery,Victim117
+28-02-2018 19:00,Kodambakkam,act323,Violence,Victim191
+28-02-2018 14:10,Rajbhavan,act323,Violence,Victim158
+28-02-2018 14:25,Valmiki Nagar,act323,Violence,Victim35
+28-02-2018 22:00,Madras Medical College,act13,Gambling,Victim195
+28-02-2018 22:00,Medavakkam Tank Road,act323,Violence,Victim89
+28-02-2018 22:10,Flowers Road,act323,Violence,Victim111
+28-02-2018 12:00,Egmore,act379,Robbery,Victim62
+28-02-2018 13:30,Chetput,act363,Kidnapping,Victim88
+28-02-2018 03:00,Kalaignar Karunanidhi Nagar,act323,Violence,Victim120
+28-02-2018 23:50,Sowcarpet,act323,Violence,Victim89
+28-02-2018 19:00,Tondiarpet Bazaar,act379,Robbery,Victim2
+28-02-2018 11:55,Jafferkhanpet,act279,Accident,Victim108
+28-02-2018 11:00,Madras University,act323,Violence,Victim123
+28-02-2018 18:00,G K M Colony,act279,Accident,Victim40
+28-02-2018 01:00,Teynampet West,act323,Violence,Victim171
+28-02-2018 00:00,Kumaran Nagar,act379,Robbery,Victim141
+28-02-2018 22:10,Rv Nagar,act279,Accident,Victim131
+28-02-2018 22:30,Raja Annamalaipuram,act13,Gambling,Victim16
+28-02-2018 08:40,Hindi Prachar Sabha,act279,Accident,Victim5
+28-02-2018 15:40,Saidapet,act323,Violence,Victim140
+28-02-2018 15:50,Shenoy Nagar,act323,Violence,Victim168
+28-02-2018 00:00,Valmiki Nagar,act379,Robbery,Victim17
+28-02-2018 15:00,Indian Institute Of Technology,act323,Violence,Victim22
+28-02-2018 15:30,Washermanpet,act323,Violence,Victim38
+28-02-2018 19:05,Shastri Nagar,act323,Violence,Victim99
+28-02-2018 19:25,Nandanam,act323,Violence,Victim197
+28-02-2018 19:50,Venkatesapuram,act323,Violence,Victim50
+28-02-2018 19:20,Tidel Park,act323,Violence,Victim145
+28-02-2018 13:00,Perambur Barracks,act323,Violence,Victim120
+28-02-2018 16:00,Mannady,act323,Violence,Victim83
+28-02-2018 21:45,Koyambedu,act323,Violence,Victim70
+28-02-2018 23:00,Vepery,act323,Violence,Victim104
+28-02-2018 19:30,Nungambakkam,act279,Accident,Victim80
+28-02-2018 17:00,Koyambedu,act13,Gambling,Victim145
+28-02-2018 19:45,Virugambakkam,act13,Gambling,Victim95
+28-02-2018 19:00,Puliyanthope,act323,Violence,Victim172
+28-02-2018 20:00,Tidel Park,act323,Violence,Victim143
+28-02-2018 17:00,Velacheri,act279,Accident,Victim79
+28-02-2018 20:30,Thygarayanagar North ND,act323,Violence,Victim161
+28-02-2018 15:50,Rayapuram,act13,Gambling,Victim6
+01-03-2018 12:00,High Court Building,act379,Robbery,Victim147
+01-03-2018 14:30,Govt Stanley Hospital,act379,Robbery,Victim55
+03-01-2018 16:30,Egmore ND,act379,Robbery,Victim82
+01-03-2018 22:30,Tondiarpet West,act379,Robbery,Victim186
+01-03-2018 18:35,West Mambalam,act379,Robbery,Victim137
+01-03-2018 16:40,Koyambedu,act379,Robbery,Victim7
+01-03-2018 01:45,Madras Electricity System,act379,Robbery,Victim84
+01-03-2018 12:00,Erukkancheri,act379,Robbery,Victim143
+01-03-2018 12:20,Lloyds Estate,act279,Accident,Victim144
+01-03-2018 17:20,Pr. Accountant General,act279,Accident,Victim85
+01-03-2018 15:35,MPT AO,act279,Accident,Victim91
+01-03-2018 22:35,Perambur Barracks,act279,Accident,Victim187
+01-03-2018 16:20,Hindi Prachar Sabha,act279,Accident,Victim56
+01-03-2018 17:30,Rajbhavan,act279,Accident,Victim133
+01-03-2018 15:25,Chintadripet,act279,Accident,Victim71
+01-03-2018 18:25,Mandaveli,act323,Violence,Victim136
+01-03-2018 20:45,Jawahar Nagar,act323,Violence,Victim32
+01-03-2018 11:45,Park Town,act323,Violence,Victim186
+01-03-2018 19:50,Medavakkam Tank Road,act363,Kidnapping,Victim85
+01-03-2018 15:30,D G Vaishnav College,act363,Kidnapping,Victim190
+01-03-2018 16:05,Rayapuram,act363,Kidnapping,Victim53
+01-03-2018 15:15,Chetput,act13,Gambling,Victim159
+01-03-2018 15:20,Kotturpuram,act13,Gambling,Victim15
+01-03-2018 22:20,Besantnagar,act323,Violence,Victim143
+01-03-2018 22:30,Triplicane South,act379,Robbery,Victim91
+01-03-2018 18:25,Erukkancheri,act323,Violence,Victim39
+01-03-2018 08:55,Raja Annamalaipuram,act379,Robbery,Victim48
+01-03-2018 14:20,Rayapuram,act379,Robbery,Victim179
+01-03-2018 00:55,Washermanpet East,act279,Accident,Victim93
+01-03-2018 18:35,Edapalayam,act323,Violence,Victim107
+01-03-2018 12:05,Pudupakkam,act379,Robbery,Victim20
+03-03-2018 20:10,G K M Colony,act379,Robbery,Victim149
+03-03-2018 20:05,Mint Building,act379,Robbery,Victim174
+03-03-2018 19:45,Ethiraj Salai,act379,Robbery,Victim27
+03-03-2018 15:30,Old College Buildings,act379,Robbery,Victim158
+03-03-2018 16:00,D G Vaishnav College,act379,Robbery,Victim75
+03-03-2018 13:40,Pr. Accountant General,act279,Accident,Victim5
+03-03-2018 17:40,Mambalam.,act279,Accident,Victim164
+03-03-2018 12:50,Thygarayanagar North ND,act279,Accident,Victim96
+03-03-2018 13:00,Washermanpet,act279,Accident,Victim34
+03-03-2018 23:10,Tiruvanmiyur,act279,Accident,Victim137
+03-03-2018 20:40,D G Vaishnav College,act279,Accident,Victim124
+03-03-2018 04:10,Royapettah,act323,Violence,Victim57
+03-03-2018 20:05,Raja Annamalaipuram,act323,Violence,Victim25
+03-03-2018 00:15,Nungambakkam High Road,act323,Violence,Victim154
+03-03-2018 22:50,Edapalayam,act323,Violence,Victim121
+03-03-2018 23:40,Guindy Industrial Estate,act363,Kidnapping,Victim66
+03-03-2018 14:10,Guindy North,act363,Kidnapping,Victim20
+03-03-2018 22:50,Ethiraj Salai,act279,Accident,Victim136
+03-03-2018 03:15,Egmore ND,act279,Accident,Victim198
+03-03-2018 16:10,Saligramam,act279,Accident,Victim44
+03-03-2018 17:50,Kotturpuram,act279,Accident,Victim67
+03-03-2018 21:20,Egmore ND,act323,Violence,Victim164
+03-03-2018 11:20,Tondiarpet,act279,Accident,Victim125
+03-03-2018 14:00,West Mambalam,act323,Violence,Victim79
+04-03-2018 09:00,Vadapalani,act323,Violence,Victim79
+04-03-2018 19:05,Tidel Park,act279,Accident,Victim145
+04-03-2018 14:30,Chetput,act279,Accident,Victim47
+04-03-2018 23:05,Mandaveli,act323,Violence,Victim64
+04-03-2018 22:00,Gopalapuram,act323,Violence,Victim136
+04-03-2018 18:30,Chintadripet,act323,Violence,Victim27
+04-03-2018 22:00,Washermanpet,act323,Violence,Victim52
+04-03-2018 13:40,Madras Electricity System,act279,Accident,Victim134
+04-03-2018 18:00,Triplicane South,act379,Robbery,Victim183
+04-03-2018 13:30,Pudupakkam,act323,Violence,Victim153
+04-03-2018 21:30,Guindy North,act279,Accident,Victim92
+04-03-2018 22:00,Mambalam.,act323,Violence,Victim62
+04-03-2018 08:00,Mint Building,act279,Accident,Victim90
+04-03-2018 20:00,Vepery,act323,Violence,Victim176
+04-03-2018 08:30,Edapalayam,act323,Violence,Victim15
+04-03-2018 17:00,Vepery,act302,Murder,Victim26
+04-03-2018 21:00,Saligramam,act279,Accident,Victim84
+05-03-2018 06:15,Mannady,act279,Accident,Victim99
+05-03-2018 23:00,MPT AO,act323,Violence,Victim7
+05-03-2018 07:30,Saidapet,act279,Accident,Victim5
+05-03-2018 19:30,Mannady,act13,Gambling,Victim132
+05-03-2018 20:00,Madras University,act279,Accident,Victim94
+05-03-2018 13:30,Kilpauk Medical College,act323,Violence,Victim92
+05-03-2018 10:00,Jafferkhanpet,act279,Accident,Victim127
+05-03-2018 14:00,Raja Annamalaipuram,act279,Accident,Victim66
+05-03-2018 23:10,Flowers Road,act279,Accident,Victim120
+05-03-2018 19:05,Vyasar Nagar Colony,act379,Robbery,Victim199
+05-03-2018 19:10,Flower Bazaar,act379,Robbery,Victim11
+05-03-2018 03:30,Mylapore,act323,Violence,Victim155
+05-03-2018 18:45,Hindi Prachar Sabha,act379,Robbery,Victim94
+05-03-2018 12:10,Madras Electricity System,act379,Robbery,Victim92
+05-03-2018 14:25,Thygarayanagar South NDS.O,act279,Accident,Victim71
+05-03-2018 15:40,Kotturpuram,act279,Accident,Victim122
+05-03-2018 00:45,Teynampet West,act323,Violence,Victim88
+05-03-2018 13:15,Jawahar Nagar,act323,Violence,Victim81
+05-03-2018 14:00,Fort St George,act279,Accident,Victim87
+05-03-2018 22:20,Kumaran Nagar,act279,Accident,Victim57
+05-03-2018 19:45,Engineering College,act379,Robbery,Victim22
+05-03-2018 14:55,Chintadripet,act379,Robbery,Victim31
+05-03-2018 21:40,Lloyds Estate,act279,Accident,Victim69
+05-03-2018 22:00,Park Town,act302,Murder,Victim98
+05-03-2018 19:10,Vivekananda College Madras,act279,Accident,Victim34
+05-03-2018 21:00,Nungambakkam,act323,Violence,Victim30
+05-03-2018 18:15,Kotturpuram,act323,Violence,Victim131
+06-03-2018 11:40,Chepauk,act323,Violence,Victim75
+06-03-2018 17:30,Kalaignar Karunanidhi Nagar,act279,Accident,Victim101
+06-03-2018 15:20,Jafferkhanpet,act279,Accident,Victim78
+06-03-2018 21:15,Thygarayanagar,act323,Violence,Victim46
+06-03-2018 20:45,Royapettah,act363,Kidnapping,Victim74
+06-03-2018 13:45,Ekkaduthangal,act279,Accident,Victim196
+06-03-2018 15:30,Teynampet,act323,Violence,Victim122
+06-03-2018 17:25,Washermanpet,act323,Violence,Victim37
+06-03-2018 18:40,Velacheri,act279,Accident,Victim181
+06-03-2018 14:30,Lloyds Estate,act279,Accident,Victim5
+06-03-2018 20:30,Fort St George,act323,Violence,Victim79
+06-03-2018 01:35,Mint Building,act323,Violence,Victim177
+06-03-2018 11:30,Tiruvallikkeni,act279,Accident,Victim28
+06-03-2018 10:10,Indian Institute Of Technology,act323,Violence,Victim116
+07-03-2018 14:50,Chennai,act279,Accident,Victim121
+07-03-2018 20:40,Shenoy Nagar,act379,Robbery,Victim183
+07-03-2018 13:35,Greams Road,act363,Kidnapping,Victim1
+07-03-2018 22:55,Perambur Barracks,act279,Accident,Victim111
+7/3/2018 16.42 ,Venkatesapuram,act323,Violence,Victim172
+7/3/2018 17.28,Vepery,act323,Violence,Victim117
+07-03-2018 18:05,Perambur Barracks,act379,Robbery,Victim138
+07-03-2018 14:00,Thygarayanagar North ND,act379,Robbery,Victim29
+07-03-2018 16:00,Washermanpet East,act279,Accident,Victim162
+07-03-2018 18:00,Ethiraj Salai,act323,Violence,Victim44
+07-03-2018 00:35,Madras University,act323,Violence,Victim163
+07-03-2018 20:20,Kilpauk,act279,Accident,Victim126
+07-03-2018 13:00,Nungambakkam,act323,Violence,Victim4
+07-03-2018 16:15,Loyola College,act323,Violence,Victim191
+07-03-2018 17:00,West Mambalam,act323,Violence,Victim177
+07-03-2018 19:05,Tondiarpet Bazaar,act279,Accident,Victim101
+07-03-2018 12:50,Velacheri,act379,Robbery,Victim53
+07-03-2018 21:05,Old College Buildings,act323,Violence,Victim67
+07-03-2018 12:20,Perambur North,act279,Accident,Victim57
+07-03-2018 20:20,Tondiarpet West,act379,Robbery,Victim153
+07-03-2018 20:40,Flower Bazaar,act279,Accident,Victim19
+07-03-2018 19:55,Kumaran Nagar,act363,Kidnapping,Victim161
+07-03-2018 21:20,Old College Buildings,act323,Violence,Victim78
+07-03-2018 03:50,Pr. Accountant General,act323,Violence,Victim11
+07-03-2018 21:10,Kilpauk Medical College,act323,Violence,Victim34
+07-03-2018 12:10,Kotturpuram,act279,Accident,Victim128
+07-03-2018 10:35,World University Centre,act279,Accident,Victim39
+07-03-2018 23:45,Chepauk,act279,Accident,Victim29
+28-02-2018 21:00,Chintadripet,act379,Robbery,Victim172
+28-02-2018 21:15,Kalaignar Karunanidhi Nagar,act379,Robbery,Victim68
+28-02-2018 10:15,Teynampet,act279,Accident,Victim178
+28-02-2018 10:15,Rajaji Bhavan,act279,Accident,Victim3
+28-02-2018 10:30,Pudupakkam,act279,Accident,Victim27
+28-02-2018 14:15,Pr. Accountant General,act323,Violence,Victim155
+28-02-2018 08:00,Lloyds Estate,act363,Kidnapping,Victim56
+28-02-2018 03:30,Old College Buildings,act323,Violence,Victim112
+28-02-2018 01:30,Ekkaduthangal,act379,Robbery,Victim14
+28-02-2018 19:00,Tidel Park,act323,Violence,Victim164
+28-02-2018 14:10,Mambalam.,act323,Violence,Victim139
+28-02-2018 14:25,Sowcarpet,act323,Violence,Victim118
+28-02-2018 22:00,Mambalam.,act13,Gambling,Victim125
+28-02-2018 22:00,Rv Nagar,act323,Violence,Victim27
+28-02-2018 22:10,Rv Nagar,act323,Violence,Victim95
+28-02-2018 12:00,Vepery,act379,Robbery,Victim124
+28-02-2018 13:30,Engineering College,act363,Kidnapping,Victim156
+28-02-2018 03:00,Guindy North,act323,Violence,Victim7
+28-02-2018 23:50,Tondiarpet,act323,Violence,Victim30
+28-02-2018 19:00,Govt Stanley Hospital,act379,Robbery,Victim101
+28-02-2018 11:55,Mambalam.,act279,Accident,Victim194
+28-02-2018 11:00,Venkatesapuram,act323,Violence,Victim18
+28-02-2018 18:00,Engineering College,act279,Accident,Victim33
+28-02-2018 01:00,Sembiam,act323,Violence,Victim94
+28-02-2018 00:00,Chetput,act379,Robbery,Victim124
+28-02-2018 22:10,Sembiam,act279,Accident,Victim182
+28-02-2018 22:30,Lloyds Estate,act13,Gambling,Victim134
+28-02-2018 08:40,Mambalam.,act279,Accident,Victim73
+28-02-2018 15:40,Tidel Park,act323,Violence,Victim89
+28-02-2018 15:50,Erukkancheri,act323,Violence,Victim158
+28-02-2018 00:00,High Court Building,act379,Robbery,Victim115
+28-02-2018 15:00,Ripon Buildings,act323,Violence,Victim25
+28-02-2018 15:30,World University Centre,act323,Violence,Victim12
+28-02-2018 19:05,Madras Medical College,act323,Violence,Victim134
+28-02-2018 19:25,Vyasar Nagar Colony,act323,Violence,Victim96
+28-02-2018 19:50,Vadapalani,act323,Violence,Victim110
+28-02-2018 19:20,Puliyanthope,act323,Violence,Victim91
+28-02-2018 13:00,Jawahar Nagar,act323,Violence,Victim184
+28-02-2018 16:00,Kalaignar Karunanidhi Nagar,act323,Violence,Victim20
+28-02-2018 21:45,Tiruvallikkeni,act323,Violence,Victim182
+28-02-2018 23:00,Chennai,act323,Violence,Victim62
+28-02-2018 19:30,Vyasarpadi,act279,Accident,Victim124
+28-02-2018 17:00,Ripon Buildings,act13,Gambling,Victim95
+28-02-2018 19:45,Vyasarpadi,act13,Gambling,Victim48
+28-02-2018 19:00,Thygarayanagar North ND,act323,Violence,Victim147
+28-02-2018 20:00,Velacheri,act323,Violence,Victim33
+28-02-2018 17:00,Jafferkhanpet,act279,Accident,Victim52
+28-02-2018 20:30,Egmore,act323,Violence,Victim83
+28-02-2018 15:50,Venkatesapuram,act13,Gambling,Victim54
+01-03-2018 12:00,Teynampet,act379,Robbery,Victim152
+01-03-2018 14:30,Thygarayanagar South NDS.O,act379,Robbery,Victim99
+03-01-2018 16:30,Nungambakkam High Road,act379,Robbery,Victim50
+01-03-2018 22:30,Tiruvallikkeni,act379,Robbery,Victim47
+01-03-2018 18:35,Velacheri,act379,Robbery,Victim91
+01-03-2018 16:40,Tondiarpet,act379,Robbery,Victim155
+01-03-2018 01:45,Tondiarpet,act379,Robbery,Victim110
+01-03-2018 12:00,Mannady,act379,Robbery,Victim38
+01-03-2018 12:20,Jawahar Nagar,act279,Accident,Victim190
+01-03-2018 17:20,Koyambedu,act279,Accident,Victim120
+01-03-2018 15:35,Rayapuram,act279,Accident,Victim129
+01-03-2018 22:35,Saidapet,act279,Accident,Victim64
+01-03-2018 16:20,Tidel Park,act279,Accident,Victim60
+01-03-2018 17:30,Thygarayanagar,act279,Accident,Victim88
+01-03-2018 15:25,Perambur North,act279,Accident,Victim12
+01-03-2018 18:25,Sembiam,act323,Violence,Victim154
+01-03-2018 20:45,Indian Institute Of Technology,act323,Violence,Victim78
+01-03-2018 11:45,Sowcarpet,act323,Violence,Victim40
+01-03-2018 19:50,Edapalayam,act363,Kidnapping,Victim144
+01-03-2018 15:30,Ekkaduthangal,act363,Kidnapping,Victim152
+01-03-2018 16:05,Raja Annamalaipuram,act363,Kidnapping,Victim192
+01-03-2018 15:15,Vivekananda College Madras,act13,Gambling,Victim43
+01-03-2018 15:20,Nungambakkam High Road,act13,Gambling,Victim104
+01-03-2018 22:20,Rajaji Bhavan,act323,Violence,Victim28
+01-03-2018 22:30,Jawahar Nagar,act379,Robbery,Victim166
+01-03-2018 18:25,Perambur Barracks,act323,Violence,Victim69
+01-03-2018 08:55,Indian Institute Of Technology,act379,Robbery,Victim63
+01-03-2018 14:20,Royapettah,act379,Robbery,Victim127
+01-03-2018 00:55,Vepery,act279,Accident,Victim48
+01-03-2018 18:35,Puliyanthope,act323,Violence,Victim183
+01-03-2018 12:05,MPT AO,act379,Robbery,Victim139
+03-03-2018 20:10,Old College Buildings,act379,Robbery,Victim78
+03-03-2018 20:05,Flower Bazaar,act379,Robbery,Victim153
+03-03-2018 19:45,Mannady,act379,Robbery,Victim148
+03-03-2018 15:30,Thygarayanagar,act379,Robbery,Victim120
+03-03-2018 16:00,Kumaran Nagar,act379,Robbery,Victim180
+03-03-2018 13:40,Sembiam,act279,Accident,Victim170
+03-03-2018 17:40,TTTI Taramani,act279,Accident,Victim185
+03-03-2018 12:50,Koyambedu Wholesale Market Com,act279,Accident,Victim90
+03-03-2018 13:00,Chetput,act279,Accident,Victim175
+03-03-2018 23:10,Flowers Road,act279,Accident,Victim19
+03-03-2018 20:40,Guindy North,act279,Accident,Victim59
+03-03-2018 04:10,Kodungaiyur,act323,Violence,Victim95
+03-03-2018 20:05,Sowcarpet,act323,Violence,Victim6
+03-03-2018 00:15,Greams Road,act323,Violence,Victim99
+03-03-2018 22:50,Chepauk,act323,Violence,Victim37
+03-03-2018 23:40,Kilpauk Medical College,act363,Kidnapping,Victim62
+03-03-2018 14:10,TTTI Taramani,act363,Kidnapping,Victim194
+03-03-2018 22:50,Icf Colony,act279,Accident,Victim27
+03-03-2018 03:15,Tidel Park,act279,Accident,Victim136
+03-03-2018 16:10,Tiruvanmiyur,act279,Accident,Victim90
+03-03-2018 17:50,Besantnagar,act279,Accident,Victim56
+03-03-2018 21:20,Choolaimedu,act323,Violence,Victim35
+03-03-2018 11:20,Koyambedu Wholesale Market Com,act279,Accident,Victim175
+03-03-2018 14:00,Tiruvanmiyur,act323,Violence,Victim82
+04-03-2018 09:00,Kodungaiyur,act323,Violence,Victim36
+04-03-2018 19:05,Nungambakkam High Road,act279,Accident,Victim104
+04-03-2018 14:30,Shastri Nagar,act279,Accident,Victim105
+04-03-2018 23:05,Loyola College,act323,Violence,Victim65
+04-03-2018 22:00,Madras University,act323,Violence,Victim154
+04-03-2018 18:30,Flowers Road,act323,Violence,Victim154
+04-03-2018 22:00,Indian Institute Of Technology,act323,Violence,Victim43
+04-03-2018 13:40,Washermanpet,act279,Accident,Victim142
+04-03-2018 18:00,Choolaimedu,act379,Robbery,Victim174
+04-03-2018 13:30,Govt Stanley Hospital,act323,Violence,Victim53
+04-03-2018 21:30,Flowers Road,act279,Accident,Victim166
+04-03-2018 22:00,Engineering College,act323,Violence,Victim63
+04-03-2018 08:00,Perambur Barracks,act279,Accident,Victim67
+04-03-2018 20:00,Koyambedu Wholesale Market Com,act323,Violence,Victim189
+04-03-2018 08:30,Madras Electricity System,act323,Violence,Victim26
+04-03-2018 17:00,Pudupakkam,act302,Murder,Victim37
+04-03-2018 21:00,Rajaji Bhavan,act279,Accident,Victim173
+05-03-2018 06:15,Hindi Prachar Sabha,act279,Accident,Victim166
+05-03-2018 23:00,Chennai,act323,Violence,Victim48
+05-03-2018 07:30,World University Centre,act279,Accident,Victim78
+05-03-2018 19:30,Royapettah,act13,Gambling,Victim158
+05-03-2018 20:00,Vivekananda College Madras,act279,Accident,Victim32
+05-03-2018 13:30,Loyola College,act323,Violence,Victim33
+05-03-2018 10:00,Old College Buildings,act279,Accident,Victim31
+05-03-2018 14:00,Lloyds Estate,act279,Accident,Victim172
+05-03-2018 23:10,Puliyanthope,act279,Accident,Victim23
+05-03-2018 19:05,Sowcarpet,act379,Robbery,Victim154
+05-03-2018 19:10,Jawahar Nagar,act379,Robbery,Victim69
+05-03-2018 03:30,Perambur,act323,Violence,Victim79
+05-03-2018 18:45,Pudupakkam,act379,Robbery,Victim95
+05-03-2018 12:10,Pudupakkam,act379,Robbery,Victim54
+05-03-2018 14:25,Madras University,act279,Accident,Victim166
+05-03-2018 15:40,Kodungaiyur,act279,Accident,Victim171
+05-03-2018 00:45,Puliyanthope,act323,Violence,Victim80
+05-03-2018 13:15,Venkatesapuram,act323,Violence,Victim32
+05-03-2018 14:00,Tondiarpet Bazaar,act279,Accident,Victim153
+05-03-2018 22:20,Egmore ND,act279,Accident,Victim106
+05-03-2018 19:45,World University Centre,act379,Robbery,Victim159
+05-03-2018 14:55,Rv Nagar,act379,Robbery,Victim97
+05-03-2018 21:40,Teynampet,act279,Accident,Victim9
+05-03-2018 22:00,Guindy North,act302,Murder,Victim31
+05-03-2018 19:10,Gopalapuram,act279,Accident,Victim117
+05-03-2018 21:00,Chetput,act323,Violence,Victim178
+05-03-2018 18:15,Saidapet,act323,Violence,Victim12
+06-03-2018 11:40,West Mambalam,act323,Violence,Victim170
+06-03-2018 17:30,Teynampet,act279,Accident,Victim130
+06-03-2018 15:20,Icf Colony,act279,Accident,Victim168
+06-03-2018 21:15,Kumaran Nagar,act323,Violence,Victim76
+06-03-2018 20:45,Tiruvanmiyur,act363,Kidnapping,Victim43
+06-03-2018 13:45,Kotturpuram,act279,Accident,Victim33
+06-03-2018 15:30,Vyasar Nagar Colony,act323,Violence,Victim11
+06-03-2018 17:25,Valmiki Nagar,act323,Violence,Victim77
+06-03-2018 18:40,Rajaji Bhavan,act279,Accident,Victim161
+06-03-2018 14:30,Perambur North,act279,Accident,Victim200
+06-03-2018 20:30,Choolaimedu,act323,Violence,Victim9
+06-03-2018 01:35,Loyola College,act323,Violence,Victim2
+06-03-2018 11:30,High Court Building,act279,Accident,Victim139
+06-03-2018 10:10,Pr. Accountant General,act323,Violence,Victim149
+07-03-2018 14:50,Choolaimedu,act279,Accident,Victim153
+07-03-2018 20:40,Mannady,act379,Robbery,Victim113
+07-03-2018 13:35,Loyola College,act363,Kidnapping,Victim157
+07-03-2018 22:55,Kilpauk Medical College,act279,Accident,Victim190
+7/3/2018 16.42 ,Ripon Buildings,act323,Violence,Victim1
+7/3/2018 17.28,Hindi Prachar Sabha,act323,Violence,Victim67
+07-03-2018 18:05,Hindi Prachar Sabha,act379,Robbery,Victim58
+07-03-2018 14:00,Chetput,act379,Robbery,Victim144
+07-03-2018 16:00,High Court Building,act279,Accident,Victim64
+07-03-2018 18:00,Chennai,act323,Violence,Victim188
+07-03-2018 00:35,Tondiarpet,act323,Violence,Victim172
+07-03-2018 20:20,Rayapuram,act279,Accident,Victim159
+07-03-2018 13:00,Jafferkhanpet,act323,Violence,Victim174
+07-03-2018 16:15,Indian Institute Of Technology,act323,Violence,Victim111
+07-03-2018 17:00,Choolaimedu,act323,Violence,Victim50
+07-03-2018 19:05,MPT AO,act279,Accident,Victim161
+07-03-2018 12:50,Washermanpet,act379,Robbery,Victim161
+07-03-2018 21:05,Washermanpet,act323,Violence,Victim156
+07-03-2018 12:20,Rayapuram,act279,Accident,Victim68
+07-03-2018 20:20,Jafferkhanpet,act379,Robbery,Victim57
+07-03-2018 20:40,Old College Buildings,act279,Accident,Victim161
+07-03-2018 19:55,TTTI Taramani,act363,Kidnapping,Victim24
+07-03-2018 21:20,Gopalapuram,act323,Violence,Victim146
+07-03-2018 03:50,Koyambedu Wholesale Market Com,act323,Violence,Victim92
+07-03-2018 21:10,Tiruvallikkeni,act323,Violence,Victim126
+07-03-2018 12:10,Vyasarpadi,act279,Accident,Victim123
+07-03-2018 10:35,Rajbhavan,act279,Accident,Victim68
+07-03-2018 23:45,Mylapore,act279,Accident,Victim84
+28-02-2018 21:00,Egmore ND,act379,Robbery,Victim192
+28-02-2018 21:15,Kasturibai Nagar,act379,Robbery,Victim45
+28-02-2018 10:15,Perambur North,act279,Accident,Victim139
+28-02-2018 10:15,Kumaran Nagar,act279,Accident,Victim92
+28-02-2018 10:30,Perambur Barracks,act279,Accident,Victim11
+28-02-2018 14:15,Thygarayanagar North ND,act323,Violence,Victim9
+28-02-2018 08:00,Hindi Prachar Sabha,act363,Kidnapping,Victim189
+28-02-2018 03:30,Shastri Nagar,act323,Violence,Victim32
+28-02-2018 01:30,Thygarayanagar North ND,act379,Robbery,Victim77
+28-02-2018 19:00,Icf Colony,act323,Violence,Victim20
+28-02-2018 14:10,Sowcarpet,act323,Violence,Victim99
+28-02-2018 14:25,Teynampet West,act323,Violence,Victim120
+28-02-2018 22:00,Icf Colony,act13,Gambling,Victim142
+28-02-2018 22:00,Perambur,act323,Violence,Victim11
+28-02-2018 22:10,Nandanam,act323,Violence,Victim165
+28-02-2018 12:00,Jafferkhanpet,act379,Robbery,Victim45
+28-02-2018 13:30,Old College Buildings,act363,Kidnapping,Victim184
+28-02-2018 03:00,Perambur North,act323,Violence,Victim88
+28-02-2018 23:50,Madras Electricity System,act323,Violence,Victim113
+28-02-2018 19:00,Teynampet West,act379,Robbery,Victim129
+28-02-2018 11:55,West Mambalam,act279,Accident,Victim51
+28-02-2018 11:00,Chintadripet,act323,Violence,Victim19
+28-02-2018 18:00,Tiruvanmiyur,act279,Accident,Victim123
+28-02-2018 01:00,Nungambakkam High Road,act323,Violence,Victim62
+28-02-2018 00:00,Vyasarpadi,act379,Robbery,Victim40
+28-02-2018 22:10,Shenoy Nagar,act279,Accident,Victim91
+28-02-2018 22:30,Flower Bazaar,act13,Gambling,Victim194
+28-02-2018 08:40,TTTI Taramani,act279,Accident,Victim151
+28-02-2018 15:40,Nungambakkam,act323,Violence,Victim124
+28-02-2018 15:50,Ekkaduthangal,act323,Violence,Victim12
+28-02-2018 00:00,Nandanam,act379,Robbery,Victim136
+28-02-2018 15:00,Mambalam.,act323,Violence,Victim16
+28-02-2018 15:30,Nungambakkam High Road,act323,Violence,Victim83
+28-02-2018 19:05,Jafferkhanpet,act323,Violence,Victim162
+28-02-2018 19:25,TTTI Taramani,act323,Violence,Victim32
+28-02-2018 19:50,Teynampet West,act323,Violence,Victim89
+28-02-2018 19:20,Chetput,act323,Violence,Victim143
+28-02-2018 13:00,Saidapet,act323,Violence,Victim182
+28-02-2018 16:00,Rajaji Bhavan,act323,Violence,Victim120
+28-02-2018 21:45,Shastri Bhavan,act323,Violence,Victim4
+28-02-2018 23:00,Edapalayam,act323,Violence,Victim29
+28-02-2018 19:30,Engineering College,act279,Accident,Victim168
+28-02-2018 17:00,Mint Building,act13,Gambling,Victim53
+28-02-2018 19:45,Mylapore,act13,Gambling,Victim76
+28-02-2018 19:00,Sembiam,act323,Violence,Victim88
+28-02-2018 20:00,MPT AO,act323,Violence,Victim47
+28-02-2018 17:00,Rv Nagar,act279,Accident,Victim167
+28-02-2018 20:30,Ethiraj Salai,act323,Violence,Victim181
+28-02-2018 15:50,Gopalapuram,act13,Gambling,Victim49
+01-03-2018 12:00,Tiruvanmiyur,act379,Robbery,Victim165
+01-03-2018 14:30,Mandaveli,act379,Robbery,Victim51
+03-01-2018 16:30,Tondiarpet,act379,Robbery,Victim139
+01-03-2018 22:30,Nungambakkam High Road,act379,Robbery,Victim105
+01-03-2018 18:35,Koyambedu,act379,Robbery,Victim62
+01-03-2018 16:40,Pudupakkam,act379,Robbery,Victim88
+01-03-2018 01:45,Saidapet,act379,Robbery,Victim177
+01-03-2018 12:00,Vadapalani,act379,Robbery,Victim70
+01-03-2018 12:20,Chintadripet,act279,Accident,Victim73
+01-03-2018 17:20,Nandanam,act279,Accident,Victim150
+01-03-2018 15:35,Washermanpet East,act279,Accident,Victim109
+01-03-2018 22:35,Rv Nagar,act279,Accident,Victim27
+01-03-2018 16:20,Kasturibai Nagar,act279,Accident,Victim194
+01-03-2018 17:30,Teynampet West,act279,Accident,Victim105
+01-03-2018 15:25,Shastri Nagar,act279,Accident,Victim165
+01-03-2018 18:25,Perambur North,act323,Violence,Victim22
+01-03-2018 20:45,Thygarayanagar South NDS.O,act323,Violence,Victim134
+01-03-2018 11:45,Indian Institute Of Technology,act323,Violence,Victim52
+01-03-2018 19:50,Tiruvallikkeni,act363,Kidnapping,Victim126
+01-03-2018 15:30,Vadapalani,act363,Kidnapping,Victim45
+01-03-2018 16:05,Edapalayam,act363,Kidnapping,Victim18
+01-03-2018 15:15,Madras University,act13,Gambling,Victim186
+01-03-2018 15:20,Nungambakkam High Road,act13,Gambling,Victim16
+01-03-2018 22:20,Tondiarpet West,act323,Violence,Victim11
+01-03-2018 22:30,Indian Institute Of Technology,act379,Robbery,Victim133
+01-03-2018 18:25,Flowers Road,act323,Violence,Victim55
+01-03-2018 08:55,Madras Medical College,act379,Robbery,Victim4
+01-03-2018 14:20,Vivekananda College Madras,act379,Robbery,Victim146
+01-03-2018 00:55,Chennai,act279,Accident,Victim69
+01-03-2018 18:35,Madras University,act323,Violence,Victim114
+01-03-2018 12:05,Pudupakkam,act379,Robbery,Victim143
+03-03-2018 20:10,Erukkancheri,act379,Robbery,Victim73
+03-03-2018 20:05,Medavakkam Tank Road,act379,Robbery,Victim101
+03-03-2018 19:45,Ramakrishna Nagar,act379,Robbery,Victim155
+03-03-2018 15:30,Kumaran Nagar,act379,Robbery,Victim50
+03-03-2018 16:00,Perambur,act379,Robbery,Victim22
+03-03-2018 13:40,High Court Building,act279,Accident,Victim187
+03-03-2018 17:40,Kodungaiyur,act279,Accident,Victim198
+03-03-2018 12:50,Old College Buildings,act279,Accident,Victim131
+03-03-2018 13:00,Tondiarpet West,act279,Accident,Victim46
+03-03-2018 23:10,Medavakkam Tank Road,act279,Accident,Victim169
+03-03-2018 20:40,Mint Building,act279,Accident,Victim170
+03-03-2018 04:10,Perambur,act323,Violence,Victim111
+03-03-2018 20:05,Greams Road,act323,Violence,Victim32
+03-03-2018 00:15,Besantnagar,act323,Violence,Victim107
+03-03-2018 22:50,Velacheri,act323,Violence,Victim128
+03-03-2018 23:40,Pudupakkam,act363,Kidnapping,Victim27
+03-03-2018 14:10,Greams Road,act363,Kidnapping,Victim83
+03-03-2018 22:50,Thygarayanagar North ND,act279,Accident,Victim140
+03-03-2018 03:15,Vadapalani,act279,Accident,Victim56
+03-03-2018 16:10,Teynampet West,act279,Accident,Victim182
+03-03-2018 17:50,Kotturpuram,act279,Accident,Victim60
+03-03-2018 21:20,MPT AO,act323,Violence,Victim44
+03-03-2018 11:20,Lloyds Estate,act279,Accident,Victim96
+03-03-2018 14:00,Old College Buildings,act323,Violence,Victim107
+04-03-2018 09:00,Medavakkam Tank Road,act323,Violence,Victim154
+04-03-2018 19:05,Perambur North,act279,Accident,Victim27
+04-03-2018 14:30,Old College Buildings,act279,Accident,Victim155
+04-03-2018 23:05,Vadapalani,act323,Violence,Victim59
+04-03-2018 22:00,Ethiraj Salai,act323,Violence,Victim133
+04-03-2018 18:30,Govt Stanley Hospital,act323,Violence,Victim79
+04-03-2018 22:00,Hindi Prachar Sabha,act323,Violence,Victim143
+04-03-2018 13:40,Govt Stanley Hospital,act279,Accident,Victim124
+04-03-2018 18:00,Vepery,act379,Robbery,Victim134
+04-03-2018 13:30,Rayapuram,act323,Violence,Victim16
+04-03-2018 21:30,Kilpauk,act279,Accident,Victim89
+04-03-2018 22:00,Ekkaduthangal,act323,Violence,Victim109
+04-03-2018 08:00,D G Vaishnav College,act279,Accident,Victim54
+04-03-2018 20:00,Triplicane South,act323,Violence,Victim71
+04-03-2018 08:30,Guindy Industrial Estate,act323,Violence,Victim89
+04-03-2018 17:00,Egmore ND,act302,Murder,Victim14
+04-03-2018 21:00,Madras Medical College,act279,Accident,Victim144
+05-03-2018 06:15,Icf Colony,act279,Accident,Victim15
+05-03-2018 23:00,Ekkaduthangal,act323,Violence,Victim152
+05-03-2018 07:30,Thygarayanagar South NDS.O,act279,Accident,Victim173
+05-03-2018 19:30,Kilpauk,act13,Gambling,Victim118
+05-03-2018 20:00,Chintadripet,act279,Accident,Victim101
+05-03-2018 13:30,Triplicane South,act323,Violence,Victim185
+05-03-2018 10:00,Tondiarpet West,act279,Accident,Victim46
+05-03-2018 14:00,D G Vaishnav College,act279,Accident,Victim111
+05-03-2018 23:10,Rajbhavan,act279,Accident,Victim191
+05-03-2018 19:05,Hindi Prachar Sabha,act379,Robbery,Victim66
+05-03-2018 19:10,Nungambakkam High Road,act379,Robbery,Victim85
+05-03-2018 03:30,Chepauk,act323,Violence,Victim159
+05-03-2018 18:45,Sowcarpet,act379,Robbery,Victim141
+05-03-2018 12:10,Loyola College,act379,Robbery,Victim172
+05-03-2018 14:25,West Mambalam,act279,Accident,Victim58
+05-03-2018 15:40,Kodungaiyur,act279,Accident,Victim188
+05-03-2018 00:45,Ethiraj Salai,act323,Violence,Victim109
+05-03-2018 13:15,Fort St George,act323,Violence,Victim9
+05-03-2018 14:00,Madras University,act279,Accident,Victim93
+05-03-2018 22:20,Medavakkam Tank Road,act279,Accident,Victim79
+05-03-2018 19:45,Chennai,act379,Robbery,Victim195
+05-03-2018 14:55,Teynampet West,act379,Robbery,Victim63
+05-03-2018 21:40,Kotturpuram,act279,Accident,Victim49
+05-03-2018 22:00,Madras Electricity System,act302,Murder,Victim143
+05-03-2018 19:10,Jafferkhanpet,act279,Accident,Victim174
+05-03-2018 21:00,Loyola College,act323,Violence,Victim173
+05-03-2018 18:15,Mannady,act323,Violence,Victim2
+06-03-2018 11:40,Raja Annamalaipuram,act323,Violence,Victim95
+06-03-2018 17:30,Koyambedu Wholesale Market Com,act279,Accident,Victim126
+06-03-2018 15:20,Vepery,act279,Accident,Victim117
+06-03-2018 21:15,Nandanam,act323,Violence,Victim38
+06-03-2018 20:45,Guindy North,act363,Kidnapping,Victim52
+06-03-2018 13:45,Park Town,act279,Accident,Victim92
+06-03-2018 15:30,Kodambakkam,act323,Violence,Victim40
+06-03-2018 17:25,Kalaignar Karunanidhi Nagar,act323,Violence,Victim173
+06-03-2018 18:40,Ripon Buildings,act279,Accident,Victim125
+06-03-2018 14:30,Rv Nagar,act279,Accident,Victim125
+06-03-2018 20:30,Chepauk,act323,Violence,Victim46
+06-03-2018 01:35,Shastri Nagar,act323,Violence,Victim16
+06-03-2018 11:30,Fort St George,act279,Accident,Victim102
+06-03-2018 10:10,Venkatesapuram,act323,Violence,Victim70
+07-03-2018 14:50,Valmiki Nagar,act279,Accident,Victim48
+07-03-2018 20:40,Chintadripet,act379,Robbery,Victim192
+07-03-2018 13:35,Madras Electricity System,act363,Kidnapping,Victim91
+07-03-2018 22:55,Saidapet,act279,Accident,Victim111
+7/3/2018 16.42 ,Besantnagar,act323,Violence,Victim75
+7/3/2018 17.28,Chintadripet,act323,Violence,Victim107
+07-03-2018 18:05,MPT AO,act379,Robbery,Victim81
+07-03-2018 14:00,Besantnagar,act379,Robbery,Victim140
+07-03-2018 16:00,Old College Buildings,act279,Accident,Victim162
+07-03-2018 18:00,Mylapore,act323,Violence,Victim75
+07-03-2018 00:35,Icf Colony,act323,Violence,Victim153
+07-03-2018 20:20,Tiruvanmiyur,act279,Accident,Victim67
+07-03-2018 13:00,Tidel Park,act323,Violence,Victim192
+07-03-2018 16:15,Besantnagar,act323,Violence,Victim21
+07-03-2018 17:00,Rajbhavan,act323,Violence,Victim55
+07-03-2018 19:05,Mandaveli,act279,Accident,Victim36
+07-03-2018 12:50,Vivekananda College Madras,act379,Robbery,Victim161
+07-03-2018 21:05,Engineering College,act323,Violence,Victim160
+07-03-2018 12:20,Flower Bazaar,act279,Accident,Victim26
+07-03-2018 20:20,Perambur Barracks,act379,Robbery,Victim24
+07-03-2018 20:40,Chetput,act279,Accident,Victim41
+07-03-2018 19:55,Perambur North,act363,Kidnapping,Victim150
+07-03-2018 21:20,Kodungaiyur,act323,Violence,Victim112
+07-03-2018 03:50,Rajbhavan,act323,Violence,Victim111
+07-03-2018 21:10,Ethiraj Salai,act323,Violence,Victim121
+07-03-2018 12:10,Kilpauk,act279,Accident,Victim111
+07-03-2018 10:35,Pudupakkam,act279,Accident,Victim74
+07-03-2018 23:45,Loyola College,act279,Accident,Victim33
