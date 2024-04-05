@@ -6,7 +6,7 @@ from PyQt5.QtCore import QTimer
 from geopy.geocoders import Nominatim
 from CTP import latlog
 from CTP import CTM
-from CTP import PP
+from CTP import PP,MP
 import pandas as pd
 
 from PyQt5.QtWidgets import QFileDialog
@@ -125,6 +125,24 @@ class Matching(QDialog):
         self.crimematching.clicked.connect(lambda: self.page(MATCHING))
         self.crimerate.clicked.connect(lambda: self.page(RATE))
         self.crimepattern.clicked.connect(lambda: self.page(PATTERN))
+
+        self.addmatch.clicked.connect(self.getdata)
+
+    def getdata(self):
+        time=self.dateTimeEdit.dateTime().toPyDateTime()
+        time_string = time.strftime('%Y-%m-%d %H:%M')
+        area=self.location.currentText()
+        acts=self.actsdd.currentText()
+        crime=self.crimes.currentText()
+        victimid=self.VictimIDLE.text()
+        new_entry = {
+                    'Timestamp':time_string,
+                    'Area':area ,
+                    'Acts':acts,
+                    'Crime':crime ,
+                    'Victim_ID':victimid
+                    }
+        mp=MP.Matching(new_entry)
 
 
 class Rate(QDialog):

@@ -1060,7 +1060,7 @@ border-radius:5px;</string>
     </property>
    </item>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="addmatch">
    <property name="geometry">
     <rect>
      <x>790</x>
@@ -1213,7 +1213,7 @@ color: rgb(255, 255, 255);</string>
   <zorder>VictimIDLE</zorder>
   <zorder>location</zorder>
   <zorder>crimes</zorder>
-  <zorder>pushButton</zorder>
+  <zorder>addmatch</zorder>
   <zorder>actsdd</zorder>
   <zorder>dateTimeEdit</zorder>
   <zorder>Area_2</zorder>
