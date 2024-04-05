@@ -6,7 +6,7 @@ from PyQt5.QtCore import QTimer
 from geopy.geocoders import Nominatim
 from CTP import latlog
 from CTP import CTM
-from CTP import PP,MP
+from CTP import PP,MP,RP
 import pandas as pd
 from PyQt5.QtWidgets import QFileDialog
 
@@ -68,8 +68,9 @@ class Predict(QDialog):
             "longitude": [longitude]
         }, index=[0])
         X=db.iloc[:,[1,2,3,4,6,10,11]].values
-        print(CTM.predict(X))
-        
+        s=CTM.predict(X)
+        text = "<html><body>{}</body></html>"
+        self.pcrime.setText(text.format(s))
 
 class Pattern(QDialog):
     def __init__(self, page):
@@ -154,7 +155,15 @@ class Rate(QDialog):
         self.crimematching.clicked.connect(lambda: self.page(MATCHING))
         self.crimerate.clicked.connect(lambda: self.page(RATE))
         self.crimepattern.clicked.connect(lambda: self.page(PATTERN))
-
+        self.result0.clicked.connect(self.pa1)
+        self.result1.clicked.connect(self.pa2)
+    def pa1(self):
+        self.areas=self.area.currentText()
+        RP.p1(self.areas)
+    def pa2(self):
+        self.crime=self.crimes.currentText()
+        RP.p2(self.crime)
+            
 
 app = QApplication(sys.argv)
 widget = QtWidgets.QStackedWidget()

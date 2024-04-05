@@ -318,7 +318,7 @@ color: rgb(255, 255, 255);</string>
     <string>LOCATION</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="result">
+  <widget class="QPushButton" name="result0">
    <property name="geometry">
     <rect>
      <x>820</x>
@@ -356,7 +356,7 @@ color: rgb(255, 255, 255);</string>
     <bool>true</bool>
    </property>
   </widget>
-  <widget class="QPushButton" name="result_2">
+  <widget class="QPushButton" name="result1">
    <property name="geometry">
     <rect>
      <x>830</x>
@@ -424,7 +424,7 @@ color: rgb(255, 255, 255);</string>
    </item>
    <item>
     <property name="text">
-     <string>Violence </string>
+     <string>Violence</string>
     </property>
    </item>
    <item>
@@ -434,11 +434,11 @@ color: rgb(255, 255, 255);</string>
    </item>
    <item>
     <property name="text">
-     <string>Kidnapping </string>
+     <string>Kidnapping</string>
     </property>
    </item>
   </widget>
-  <widget class="QComboBox" name="location_3">
+  <widget class="QComboBox" name="area">
    <property name="geometry">
     <rect>
      <x>680</x>
@@ -454,16 +454,16 @@ color: rgb(255, 255, 255);</string>
     <bool>true</bool>
    </property>
    <property name="currentText">
-    <string>Adyar </string>
+    <string>Adyar</string>
    </property>
    <item>
     <property name="text">
-     <string>Adyar </string>
+     <string>Adyar</string>
     </property>
    </item>
    <item>
     <property name="text">
-     <string>Agaram </string>
+     <string>Agaram</string>
     </property>
    </item>
    <item>
@@ -473,7 +473,7 @@ color: rgb(255, 255, 255);</string>
    </item>
    <item>
     <property name="text">
-     <string>Anna Nagar </string>
+     <string>Anna Nagar</string>
     </property>
    </item>
    <item>
@@ -1070,12 +1070,12 @@ color: rgb(255, 255, 255);</string>
   <zorder>icon3</zorder>
   <zorder>icon2</zorder>
   <zorder>Location</zorder>
-  <zorder>result</zorder>
+  <zorder>result0</zorder>
   <zorder>icon4_2</zorder>
-  <zorder>result_2</zorder>
+  <zorder>result1</zorder>
   <zorder>crimetype</zorder>
   <zorder>crimes</zorder>
-  <zorder>location_3</zorder>
+  <zorder>area</zorder>
   <zorder>home</zorder>
   <zorder>homebt</zorder>
  </widget>
