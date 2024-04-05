@@ -8,7 +8,6 @@ from CTP import latlog
 from CTP import CTM
 from CTP import PP,MP
 import pandas as pd
-
 from PyQt5.QtWidgets import QFileDialog
 
 def page(Page):
