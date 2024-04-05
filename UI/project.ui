@@ -16,7 +16,7 @@
   <widget class="QLabel" name="background">
    <property name="geometry">
     <rect>
-     <x>-10</x>
+     <x>0</x>
      <y>0</y>
      <width>1366</width>
      <height>768</height>
@@ -43,7 +43,7 @@
    </property>
    <property name="styleSheet">
     <string notr="true">color: rgb(255, 255, 0);
-font: 75 36pt ;
+font: 36pt &quot;Lucida Console&quot;;
 </string>
    </property>
    <property name="text">
@@ -196,11 +196,11 @@ color: rgb(255, 255, 0);
     </font>
    </property>
    <property name="styleSheet">
-    <string notr="true">font: 17pt &quot;MS Sans Serif&quot;;
+    <string notr="true">
 color:rgb(0, 0, 0)</string>
    </property>
    <property name="text">
-    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-family:'Arvo variant1','Tofu'; font-size:18pt; color:#ffffff;&quot;&gt;Introducing CIPHER, your cutting-edge solution in the realm of crime prevention and analysis. Engineered with precision, CIPHER harnesses the power of advanced data analytics to perform comprehensive crime matching, meticulously analyze crime rates, and predict potential criminal activities through sophisticated pattern recognition. Embedded within this technological marvel is an intuitive chatbot, equipped to provide immediate, informed responses to any crime-related queries. CIPHER stands as a beacon of innovation, offering an unparalleled tool for law enforcement agencies, researchers, and the public to stay one step ahead in the ongoing pursuit of safety and justice.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-family:'Arvo variant1','Tofu'; font-size:16pt; color:#ffffff;&quot;&gt;Introducing CIPHER, your cutting-edge solution in the realm of crime prevention and analysis. Engineered with precision, CIPHER harnesses the power of advanced data analytics to perform comprehensive crime matching, meticulously analyze crime rates, and predict potential criminal activities through sophisticated pattern recognition. Embedded within this technological marvel is an intuitive chatbot, equipped to provide immediate, informed responses to any crime-related queries. CIPHER stands as a beacon of innovation, offering an unparalleled tool for law enforcement agencies, researchers, and the public to stay one step ahead in the ongoing pursuit of safety and justice.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -250,7 +250,7 @@ background-color: rgba(255, 255, 255,0);
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1361</width>
+     <width>1371</width>
      <height>91</height>
     </rect>
    </property>
@@ -384,6 +384,32 @@ background-color: rgba(255, 255, 255,0);
     <bool>true</bool>
    </property>
   </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>1260</x>
+     <y>20</y>
+     <width>91</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>Images/Icons/chat.png</normaloff>Images/Icons/chat.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>50</width>
+     <height>50</height>
+    </size>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
   <zorder>background</zorder>
   <zorder>blurside</zorder>
   <zorder>crimematching</zorder>
@@ -399,6 +425,7 @@ background-color: rgba(255, 255, 255,0);
   <zorder>icon1</zorder>
   <zorder>icon2</zorder>
   <zorder>home</zorder>
+  <zorder>pushButton</zorder>
  </widget>
  <resources/>
  <connections/>

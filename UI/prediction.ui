@@ -1042,6 +1042,32 @@ color: rgb(255, 255, 255);</string>
     <string>PREDICTED HOT CRIME</string>
    </property>
   </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>1260</x>
+     <y>20</y>
+     <width>91</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>Images/Icons/chat.png</normaloff>Images/Icons/chat.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>50</width>
+     <height>50</height>
+    </size>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
   <zorder>BG</zorder>
   <zorder>blurside</zorder>
   <zorder>Location</zorder>
@@ -1064,6 +1090,7 @@ color: rgb(255, 255, 255);</string>
   <zorder>homebt</zorder>
   <zorder>pcrime</zorder>
   <zorder>dateandtime_2</zorder>
+  <zorder>pushButton</zorder>
  </widget>
  <resources/>
  <connections/>
