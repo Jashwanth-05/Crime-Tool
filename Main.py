@@ -5,8 +5,12 @@ from PyQt5.uic import loadUi
 from PyQt5.QtCore import QTimer
 from geopy.geocoders import Nominatim
 from CTP import latlog
-import pandas as pd
 from CTP import CTM
+from CTP import PP
+import pandas as pd
+
+from PyQt5.QtWidgets import QFileDialog
+
 def page(Page):
     index = widget.indexOf(Page)
     widget.setCurrentIndex(index)
@@ -71,6 +75,7 @@ class Predict(QDialog):
 class Pattern(QDialog):
     def __init__(self, page):
         self.page = page
+        self.pp = None
         super(Pattern, self).__init__()
         loadUi("UI/pattern.ui", self)
         self.homebt.clicked.connect(lambda: self.page(HOME))
@@ -78,6 +83,36 @@ class Pattern(QDialog):
         self.crimematching.clicked.connect(lambda: self.page(MATCHING))
         self.crimerate.clicked.connect(lambda: self.page(RATE))
         self.crimepattern.clicked.connect(lambda: self.page(PATTERN))
+
+        self.select.clicked.connect(self.select_file)
+        self.s1.clicked.connect(self.pa1)
+        self.s2.clicked.connect(self.pa2)
+        self.s3.clicked.connect(self.pa3)
+        self.s4.clicked.connect(self.pa4)
+
+    def select_file(self):
+        self.options = QFileDialog.Options()
+        self.options |= QFileDialog.DontUseNativeDialog
+        file_name, _ = QFileDialog.getOpenFileName(self, "Select File", "", "All Files (*)", options=self.options)
+        text = "<html><body>{}</body></html>"
+        self.pathlabel.setText(text.format(file_name))
+        if file_name:
+            self.pp = PP.Pattern(file_name)
+
+    def pa1(self):
+        if self.pp:
+            self.pp.p1()
+    def pa2(self):
+        if self.pp:
+            self.pp.p2()
+    def pa3(self):
+        if self.pp:
+            self.pp.p3()
+    def pa4(self):
+        if self.pp:
+            self.pp.p4()
+
+            
 
 
 class Matching(QDialog):
@@ -121,4 +156,4 @@ widget.addWidget(PREDICT)
 widget.addWidget(PATTERN)
 widget.addWidget(MATCHING)
 widget.addWidget(RATE)
-app.exec_()
+sys.exit(app.exec_())

@@ -1,7 +1,6 @@
 import pickle
 import numpy as np
 
-# Load the model
 with open('Crime Prediction\Chennai CIty\Chennai City Model.pkl', 'rb') as f:
     loaded_model = pickle.load(f)
 
