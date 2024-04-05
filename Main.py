@@ -1,6 +1,6 @@
 import sys
 from PyQt5 import QtWidgets
-from PyQt5.QtWidgets import QApplication, QDialog
+from PyQt5.QtWidgets import QApplication, QDialog, QVBoxLayout
 from PyQt5.uic import loadUi
 from PyQt5.QtCore import QTimer
 from geopy.geocoders import Nominatim
@@ -11,6 +11,23 @@ import pandas as pd
 from PyQt5.QtWidgets import QFileDialog
 from PyQt5.QtGui import QDesktopServices
 from PyQt5.QtCore import QUrl
+from PyQt5.QtWebEngineWidgets import QWebEngineView
+
+
+class BrowserWindow(QDialog):
+    def __init__(self):
+        super().__init__()
+        self.setWindowTitle("CIPHER Assistant")
+
+        layout = QVBoxLayout()
+        self.webview = QWebEngineView()
+        self.webview.setFixedSize(460, 600) 
+        self.webview.load(QUrl('https://mediafiles.botpress.cloud/70f443a5-c57d-47cc-8520-dec66eb829da/webchat/bot.html'))
+
+        layout.addWidget(self.webview)
+
+        self.setLayout(layout)
+
 
 def page(Page):
     index = widget.indexOf(Page)
@@ -35,11 +52,11 @@ class Home(QDialog):
         self.crimematching.clicked.connect(lambda: self.page(MATCHING))
         self.crimerate.clicked.connect(lambda: self.page(RATE))
         self.crimepattern.clicked.connect(lambda: self.page(PATTERN))
-        self.pushButton.clicked.connect(self.gotopage1)
+        self.pushButton.clicked.connect(self.bw)
 
-    def gotopage1(self):
-        url=QUrl("https://mediafiles.botpress.cloud/70f443a5-c57d-47cc-8520-dec66eb829da/webchat/bot.html")
-        QDesktopServices.openUrl(url)
+    def bw(self):
+        self.bw=BrowserWindow()
+        self.bw.exec_()
 
 
 
@@ -54,11 +71,11 @@ class Predict(QDialog):
         self.crimerate.clicked.connect(lambda: self.page(RATE))
         self.crimepattern.clicked.connect(lambda: self.page(PATTERN))
         self.predictbt.clicked.connect(self.predict)
-        self.pushButton.clicked.connect(self.gotopage1)
+        self.pushButton.clicked.connect(self.bw)
 
-    def gotopage1(self):
-        url=QUrl("https://mediafiles.botpress.cloud/70f443a5-c57d-47cc-8520-dec66eb829da/webchat/bot.html")
-        QDesktopServices.openUrl(url)
+    def bw(self):
+        self.bw=BrowserWindow()
+        self.bw.exec_()
 
     def predict(self):
         area=self.locationcb.currentText()
@@ -101,11 +118,12 @@ class Pattern(QDialog):
         self.s2.clicked.connect(self.pa2)
         self.s3.clicked.connect(self.pa3)
         self.s4.clicked.connect(self.pa4)
-        self.pushButton.clicked.connect(self.gotopage1)
+        self.pushButton.clicked.connect(self.bw)
 
-    def gotopage1(self):
-        url=QUrl("https://mediafiles.botpress.cloud/70f443a5-c57d-47cc-8520-dec66eb829da/webchat/bot.html")
-        QDesktopServices.openUrl(url)
+    def bw(self):
+        self.bw=BrowserWindow()
+        self.bw.exec_()
+
 
     def select_file(self):
         self.options = QFileDialog.Options()
@@ -144,11 +162,13 @@ class Matching(QDialog):
         self.crimepattern.clicked.connect(lambda: self.page(PATTERN))
 
         self.addmatch.clicked.connect(self.getdata)
-        self.pushButton.clicked.connect(self.gotopage1)
+        self.pushButton.clicked.connect(self.bw)
 
-    def gotopage1(self):
-        url=QUrl("https://mediafiles.botpress.cloud/70f443a5-c57d-47cc-8520-dec66eb829da/webchat/bot.html")
-        QDesktopServices.openUrl(url)
+    def bw(self):
+        self.bw=BrowserWindow()
+        self.bw.exec_()
+
+
 
     def getdata(self):
         time=self.dateTimeEdit.dateTime().toPyDateTime()
@@ -179,12 +199,13 @@ class Rate(QDialog):
         self.crimepattern.clicked.connect(lambda: self.page(PATTERN))
         self.result0.clicked.connect(self.pa1)
         self.result1.clicked.connect(self.pa2)
-        self.pushButton.clicked.connect(self.gotopage1)
+        self.pushButton.clicked.connect(self.bw)
 
-    def gotopage1(self):
-        url=QUrl("https://mediafiles.botpress.cloud/70f443a5-c57d-47cc-8520-dec66eb829da/webchat/bot.html")
-        QDesktopServices.openUrl(url)
-        
+    def bw(self):
+        self.bw=BrowserWindow()
+        self.bw.exec_()
+
+
     def pa1(self):
         self.areas=self.area.currentText()
         RP.p1(self.areas)
