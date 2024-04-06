@@ -1016,7 +1016,7 @@ background-color: rgba(255, 255, 255,0);</string>
    </property>
    <property name="styleSheet">
     <string notr="true">border:2px solid white;
-color: rgb(255, 0, 0);
+color: rgb(85, 255, 0);
 font: 14pt &quot;MS Shell Dlg 2&quot;;
 background-color: rgba(255, 255, 255,90);
 border-radius:10px;</string>

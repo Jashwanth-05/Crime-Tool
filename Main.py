@@ -21,7 +21,7 @@ class BrowserWindow(QDialog):
 
         layout = QVBoxLayout()
         self.webview = QWebEngineView()
-        self.webview.setFixedSize(460, 600) 
+        self.webview.setFixedSize(500, 600) 
         self.webview.load(QUrl('https://mediafiles.botpress.cloud/70f443a5-c57d-47cc-8520-dec66eb829da/webchat/bot.html'))
 
         layout.addWidget(self.webview)
@@ -38,6 +38,7 @@ class MyApp(QDialog):
         self.page = page
         super(MyApp, self).__init__()
         loadUi("UI/Opening.ui", self)
+        self.setWindowTitle("CIPHER")
         timer = QTimer(self)
         timeout_duration = 4000
         timer.singleShot(timeout_duration, lambda: self.page(HOME))
@@ -48,6 +49,7 @@ class Home(QDialog):
         self.page = page
         super(Home, self).__init__()
         loadUi("UI/project.ui", self)
+        self.setWindowTitle("CIPHER")
         self.crimeprediction.clicked.connect(lambda: self.page(PREDICT))
         self.crimematching.clicked.connect(lambda: self.page(MATCHING))
         self.crimerate.clicked.connect(lambda: self.page(RATE))
@@ -65,6 +67,7 @@ class Predict(QDialog):
         self.page = page
         super(Predict, self).__init__()
         loadUi("UI/prediction.ui", self)
+        self.setWindowTitle("CIPHER")
         self.homebt.clicked.connect(lambda: self.page(HOME))
         self.crimeprediction.clicked.connect(lambda: self.page(PREDICT))
         self.crimematching.clicked.connect(lambda: self.page(MATCHING))
@@ -107,6 +110,7 @@ class Pattern(QDialog):
         self.pp = None
         super(Pattern, self).__init__()
         loadUi("UI/pattern.ui", self)
+        self.setWindowTitle("CIPHER")
         self.homebt.clicked.connect(lambda: self.page(HOME))
         self.crimeprediction.clicked.connect(lambda: self.page(PREDICT))
         self.crimematching.clicked.connect(lambda: self.page(MATCHING))
@@ -155,6 +159,7 @@ class Matching(QDialog):
         self.page = page
         super(Matching, self).__init__()
         loadUi("UI/matching.ui", self)
+        self.setWindowTitle("CIPHER")
         self.homebt.clicked.connect(lambda: self.page(HOME))
         self.crimeprediction.clicked.connect(lambda: self.page(PREDICT))
         self.crimematching.clicked.connect(lambda: self.page(MATCHING))
@@ -192,6 +197,7 @@ class Rate(QDialog):
         self.page = page
         super(Rate, self).__init__()
         loadUi("UI/crimerate.ui", self)
+        self.setWindowTitle("CIPHER")
         self.homebt.clicked.connect(lambda: self.page(HOME))
         self.crimeprediction.clicked.connect(lambda: self.page(PREDICT))
         self.crimematching.clicked.connect(lambda: self.page(MATCHING))
